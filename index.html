@@ -1930,7 +1930,7 @@ q.addEventListener('input',function(){var v=q.value.trim().toLowerCase();rows.fo
   </div>
 </section>
 
-<section class="sec">
+<section class="sec" id="sources">
   <h2 style="font-size:18px">出典</h2>
   <ul class="src">
     <li><a href="https://en.wikipedia.org/wiki/Scindapsus" target="_blank" rel="noopener">Scindapsus — Wikipedia</a></li>
@@ -2366,7 +2366,9 @@ secs.forEach(function(s){var h=s.querySelector(':scope>h2');if(!h)return;
   h.addEventListener('click',function(e){if(e.target.closest('a'))return;tg()});
   h.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();tg()}})});
 window.__unfold=function(el){var s=el&&el.closest?el.closest('section.folded'):null;if(s)set(s,true);if(el&&el.classList&&el.classList.contains('folded'))set(el,true)};
-document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href^="#"]');if(!a)return;var id=decodeURIComponent(a.getAttribute('href').slice(1));var t=id&&document.getElementById(id);if(t)window.__unfold(t)},true);
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href^="#"]');if(!a)return;var id=decodeURIComponent(a.getAttribute('href').slice(1));var t=id&&document.getElementById(id);if(!t)return;
+for(var x=t;x&&x!==document.body;x=x.parentElement){x.classList.remove('f-hide');if(x.tagName==='DETAILS')x.open=true}   // 絞り込みが隠した先でもページ内リンクで着地できるように、そこまでの道だけ表示に戻す（絞り込み自体は保つ）。閉じた details は開く
+window.__unfold(t)},true);
 if(location.hash){var t0=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(t0){window.__unfold(t0);setTimeout(function(){t0.scrollIntoView()},50)}}
 var res=document.getElementById('fresult');
 function sync(){document.body.classList.toggle('filtering',!!(res&&!res.hidden))}
