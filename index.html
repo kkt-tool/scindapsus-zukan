@@ -151,7 +151,13 @@ a.sh{text-decoration:none}a.sh:hover{border-color:var(--leaf);color:var(--leaf)}
 .tb-pc{display:flex;gap:8px}
 .tb-row{display:contents}   /* PC: 検索欄と「絞り込み」が同じ1行（.tb-pc）。電話幅では .tb-row が固定される1段になる */
 #gsub{display:none}
-#gq{flex:1;min-width:0;font:inherit;font-size:16px;padding:9px 12px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink)}
+.gqwrap{flex:1;min-width:0;position:relative;display:flex}   /* 入力欄を包み、×を右端内側に重ねるための基準。段の高さは変えない */
+#gq{flex:1;min-width:0;font:inherit;font-size:16px;padding:9px 32px 9px 12px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink)}
+#gq::-webkit-search-cancel-button,#gq::-webkit-search-decoration{-webkit-appearance:none;appearance:none;display:none}   /* ブラウザ標準の×は消して二重表示を防ぐ（iOS Safariはもともと出ない） */
+#gclr{position:absolute;right:2px;top:50%;transform:translateY(-50%);border:0;background:transparent;color:var(--ink-soft);font-size:15px;line-height:1;padding:8px 10px;cursor:pointer;border-radius:6px}
+#gclr:hover{color:var(--leaf)}
+#gclr:focus-visible{outline:2px solid var(--leaf);outline-offset:-2px}
+#gclr[hidden]{display:none}
 html,body{overflow-x:clip;overflow-anchor:none}
 @media(min-width:1200px){.wrap{max-width:min(1360px,94vw)}}
 .card.rec{border-style:dashed!important;opacity:.78}.node.rec{border-left-style:dashed!important;opacity:.72}.node.rec .nm{font-weight:500}.tag.rec{background:transparent;border:1px dashed var(--line);font-family:var(--sans)}
@@ -207,7 +213,7 @@ input,select,textarea{font-size:16px}
   /* 画面上部に固定するのは「検索欄＋検索ボタン」の1段だけ。「絞り込み ▸」は検索欄の下に折りたたんで置く（流れに置く。開いている間だけパネルが検索欄の下に付いてくる）。件数・目次チップも普通に流れる */
   #toolbar,.tb-pc{display:contents}
   .tb-row{display:flex;gap:8px;position:sticky;top:0;z-index:20;background:var(--ground);padding:8px 0 6px;border-bottom:1px solid var(--line)}
-  #gq{padding:7px 12px}
+  #gq{padding:7px 32px 7px 12px}
   #gsub{display:block;flex:none;font:inherit;font-size:14px;font-weight:700;padding:0 16px;border:1px solid var(--leaf);border-radius:6px;background:var(--leaf);color:var(--paper);cursor:pointer;white-space:nowrap;touch-action:manipulation}
   #gsub:active{filter:brightness(.9)}
   #gsub:focus-visible,#fbtn:focus-visible,#fclose:focus-visible{outline:2px solid var(--leaf);outline-offset:2px}
@@ -343,7 +349,7 @@ a:focus-visible{outline:2px solid var(--leaf);outline-offset:2px}
 <div id="toolbar">
   <div class="tb-pc">
     <div class="tb-row">
-      <input id="gq" type="search" placeholder="品種名で探す（例：ラジャ、moonlight、サラク）" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="search">
+      <span class="gqwrap"><input id="gq" type="search" placeholder="品種名で探す（例：ラジャ、moonlight、サラク）" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="search"><button type="button" id="gclr" hidden aria-label="検索語を消去">✕</button></span>
       <button type="button" id="gsub" aria-label="検索して、一致する品種へ移動">検索</button>
     </div>
     <button type="button" id="fbtn" aria-expanded="false" aria-controls="fpanel">絞り込み<span id="fcount"></span></button>
@@ -2143,6 +2149,13 @@ fbtn.addEventListener('click',function(){var o=panel.hidden;panel.hidden=!o;fbtn
 var fclose=document.getElementById('fclose');if(fclose)fclose.addEventListener('click',function(){if(!panel.hidden)fbtn.click()});   // 電話幅: 検索欄の下に付いてきているパネルを、その場で閉じる
 chips.forEach(function(c){c.setAttribute('aria-pressed','false');c.addEventListener('click',function(){c.setAttribute('aria-pressed',c.getAttribute('aria-pressed')==='true'?'false':'true');run()})});
 document.getElementById('freset').addEventListener('click',function(){chips.forEach(function(c){c.setAttribute('aria-pressed','false')});gq.value='';gq.dispatchEvent(new Event('input'));run()});
+// ×（クリア）: 文字があるときだけ表示。押すと全消去＋絞り込み解除＋件数リセット＋ハイライト解除（run()が空条件で全部戻す。空のときは run() が位置を動かさない）。
+// フォーカスは入力欄に戻す（ビジュアル版と同じ作法、preventScroll で位置は保つ）。mousedown 抑止でフォーカス・キーボード状態を揺らさない。
+var gclr=document.getElementById('gclr');
+function updClr(){if(gclr)gclr.hidden=!gq.value.length}
+if(gclr){gclr.addEventListener('mousedown',function(e){e.preventDefault()});
+  gclr.addEventListener('click',function(){chips.forEach(function(c){c.setAttribute('aria-pressed','false')});gq.value='';gq.dispatchEvent(new Event('input'));run();try{gq.focus({preventScroll:true})}catch(_){gq.focus()}})}
+gq.addEventListener('input',updClr);updClr();
 var t;gq.addEventListener('input',function(){clearTimeout(t);t=setTimeout(run,120)});
 // ---- Enter: jump to the entry whose name matches the query exactly (kana / case / width / space / dot / quote differences ignored) ----
 function nrm2(s){return kata(String(s).normalize('NFKC').toLowerCase()).replace(/[\s・·.'’‘"“”「」『』`´]/g,'')}

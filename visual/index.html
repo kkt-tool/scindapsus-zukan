@@ -161,6 +161,13 @@ section.block+section.block{border-top:1px solid var(--line)}
 .count span{font-size:12.5px;font-weight:700;color:var(--accent)}
 .count.zero{border-color:var(--warn)}.count.zero b,.count.zero span{color:var(--warn)}
 .flab{white-space:nowrap;flex:none;font-family:var(--f-mono);font-size:11px;color:var(--ink-soft);letter-spacing:.14em;margin-right:2px}
+.ftog{display:inline-flex;align-items:center;gap:7px}
+.ftog .fcar{font-size:10px;color:var(--ink-soft)}
+.ftog .fbadge{font-family:var(--f-mono);font-size:11px;min-width:18px;height:18px;padding:0 5px;border-radius:999px;background:var(--accent);color:var(--on-accent);display:inline-flex;align-items:center;justify-content:center}
+.ftog .fbadge[hidden]{display:none}
+#fchips{margin-top:8px}
+#fchips[hidden]{display:none}
+#fchips .frow+.frow{margin-top:8px}
 .chip{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:5px 13px;font:inherit;font-size:13px;cursor:pointer}
 .chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .chip[aria-pressed="true"] .sw{box-shadow:0 0 0 1px var(--bg)}
@@ -725,10 +732,13 @@ footer p{max-width:62em;margin:.4em 0}
       <label class="fsearch" for="q"><span aria-hidden="true">⌕</span><input id="q" type="search" placeholder="名前で探す（例：ムーンライト、exotica、マヤリ）" autocomplete="off"><button type="button" class="qx" hidden aria-label="検索語を消去">✕</button></label>
       <div class="count" id="count" aria-live="polite"><b id="cnum">0</b><span id="cword">標本</span></div>
     </div>
+    <div class="frow"><button class="chip ftog" id="ftog" type="button" aria-expanded="true" aria-controls="fchips">絞り込み <span class="fcar" aria-hidden="true">▾</span><span class="fbadge" id="fbadge" hidden></span></button></div>
+    <div id="fchips">
     <div class="frow" id="fcol"><span class="flab">斑の型</span></div>
     <div class="frow" id="fsec"><span class="flab">系統</span></div>
     <div class="frow" id="forg"><span class="flab">産地</span></div>
     <div class="frow" id="fshine"><span class="flab">輝き</span></div>
+    </div>
     <div class="scope" id="scope"><span>系統で絞り込み中：<b id="scopenm"></b></span><button class="chip" id="scopex" type="button">解除</button></div>
   </div></div>
   <div class="wrap">
@@ -878,6 +888,12 @@ mkChips(document.getElementById('fcol'),COLS,D.COLS,'col',true);
 mkChips(document.getElementById('fsec'),SECS,D.SECN,'sec',false);
 mkChips(document.getElementById('forg'),ORGS,ORGN,'org',false);
 mkChips(document.getElementById('fshine'),SHINES,SHINEN,'shine',false);
+// filter rows fold: on phones the four chip rows plus the keyboard hide the cards
+var ftog=document.getElementById('ftog'),fchips=document.getElementById('fchips'),fbadge=document.getElementById('fbadge');
+function fSet(open){fchips.hidden=!open;ftog.setAttribute('aria-expanded',open?'true':'false');ftog.querySelector('.fcar').textContent=open?'\u25be':'\u25b8'}
+ftog.onclick=function(){fSet(fchips.hidden)};
+fSet(!(window.matchMedia&&matchMedia('(max-width:600px)').matches));
+function fBadge(){var n=0;[['col',COLS],['sec',SECS],['org',ORGS],['shine',SHINES]].forEach(function(pr){pr[1].forEach(function(k){if(st[pr[0]][k])n++})});fbadge.hidden=!n;fbadge.textContent=n}
 
 // hero legend = same five swatches, jump+filter
 var counts={};items.forEach(function(i){counts[i.col]=(counts[i.col]||0)+1});
@@ -942,7 +958,7 @@ if(qTop){qTop.addEventListener('input',function(){setQ(qTop.value,qTop)});
   qTop.addEventListener('keydown',function(e){if(e.key!=='Enter')return;if(composing||e.isComposing||e.keyCode===229)return;e.preventDefault();if(qTop.value.trim()){toResults();qTop.blur()}});
   if(qGo)qGo.addEventListener('click',function(){toResults();qTop.blur()})}
 document.getElementById('morebtn').onclick=function(){shown+=PAGE*2;apply()};
-function apply(){var anyC=COLS.some(function(k){return st.col[k]}),anyS=SECS.some(function(k){return st.sec[k]}),anyO=ORGS.some(function(k){return st.org[k]}),anyH=SHINES.some(function(k){return st.shine[k]});var n=0,vis=0;
+function apply(){if(typeof fBadge==='function')fBadge();var anyC=COLS.some(function(k){return st.col[k]}),anyS=SECS.some(function(k){return st.sec[k]}),anyO=ORGS.some(function(k){return st.org[k]}),anyH=SHINES.some(function(k){return st.shine[k]});var n=0,vis=0;
   cards.forEach(function(c){var it=c._it;var ok=(!st.q||c._hay.indexOf(st.q)>=0)&&(!anyC||st.col[it.col])&&(!anyS||st.sec[it.sec])&&(!anyO||ORGS.some(function(k){return st.org[k]&&(it.org||'').indexOf(k)>=0}))&&(!anyH||st.shine[it.shine])&&(!scopeSet||scopeSet[it.id]);
     if(ok){n++;c.hidden=false}else c.hidden=true});
   if(typeof sgUpdate==='function')sgUpdate(!!(st.q||anyC||anyS||anyO||anyH||scopeSet));
