@@ -192,6 +192,9 @@ section.block+section.block{border-top:1px solid var(--line)}
 .block.folded>:not(:first-child){display:none}
 .spr.flash{outline:2px solid var(--accent);outline-offset:-2px;background:color-mix(in srgb,var(--accent) 10%,transparent)}
 .spr{scroll-margin-top:90px}
+.rd-cat tr{scroll-margin-top:90px}
+@keyframes catflash{0%,60%{background:color-mix(in srgb,var(--leaf,#2B5A51) 22%,transparent)}100%{background:transparent}}
+.rowflash>td{animation:catflash 2.6s ease-out}
 /* chronology (年表) */
 .dm{flex:none;display:inline-block;width:9px;height:9px;transform:rotate(45deg);background:var(--oc,var(--ink-soft));box-shadow:0 0 9px color-mix(in srgb,var(--oc,var(--ink-soft)) calc(var(--glow)*200%),transparent)}
 .dm.b{background:var(--card);border:1.5px solid var(--oc,var(--ink-soft));box-shadow:none}
@@ -949,7 +952,15 @@ var qxs=[].slice.call(document.querySelectorAll('.fsearch .qx'));
 function updQx(){qxs.forEach(function(x){x.hidden=!(x.previousElementSibling.value||'').length})}
 qxs.forEach(function(x){x.addEventListener('click',function(){var inp=x.previousElementSibling;setQ('',null);try{inp.focus({preventScroll:true})}catch(e){inp.focus()}})});
 // only an explicit action (Enter / the 検索 button) moves the page; typing never scrolls or opens anything
-function toResults(){unfoldFor(document.getElementById('shelf'));var f=document.querySelector('#shelf .fbar');if(f)f.scrollIntoView({block:'start'})}
+function toResults(){
+  var n=0;cards.forEach(function(c){if(!c.hidden)n++});
+  var m=(typeof catF==='function'&&catF)?catF(st.q):undefined;
+  if(st.q&&n===0&&m){var cat=document.getElementById('catalog');unfoldFor(cat);
+    var row=cat.querySelector('tbody tr:not(.cf-hide)');
+    (row||cat).scrollIntoView({block:'start'});
+    if(row){row.classList.remove('rowflash');void row.offsetHeight;row.classList.add('rowflash')}
+    return}   // 標本カードが0件でも、さくいん（名前だけの記録）にヒットがあればそこへ飛ぶ（2026-10-11）
+  unfoldFor(document.getElementById('shelf'));var f=document.querySelector('#shelf .fbar');if(f)f.scrollIntoView({block:'start'})}
 function updQ(n,m){var el=document.getElementById('qcount');if(!el)return;
   if(!st.q){el.textContent='';el.classList.remove('zero');return}
   var t=typeof tSearchCount==='function'?tSearchCount():0;
