@@ -957,7 +957,8 @@ function toResults(){
   var m=(typeof catF==='function'&&catF)?catF(st.q):undefined;
   if(st.q&&n===0&&m){var cat=document.getElementById('catalog');unfoldFor(cat);
     var row=cat.querySelector('tbody tr:not(.cf-hide)');
-    (row||cat).scrollIntoView({block:'start'});
+    var y=(row||cat).getBoundingClientRect().top+window.scrollY-90;
+    try{window.scrollTo({top:y,behavior:'instant'})}catch(e){window.scrollTo(0,y)}
     if(row){row.classList.remove('rowflash');void row.offsetHeight;row.classList.add('rowflash')}
     return}   // 標本カードが0件でも、さくいん（名前だけの記録）にヒットがあればそこへ飛ぶ（2026-10-11）
   unfoldFor(document.getElementById('shelf'));var f=document.querySelector('#shelf .fbar');if(f)f.scrollIntoView({block:'start'})}
