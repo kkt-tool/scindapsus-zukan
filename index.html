@@ -173,11 +173,6 @@ table.ftab tr.f-hide{display:none}
 .abbr summary::before{content:'▸';transition:transform .15s}
 .abbr[open] summary::before{transform:rotate(90deg)}
 .abbr summary::after{content:'（押して開く）';font-weight:400;color:var(--ink-soft);font-size:12px}
-.secfold>summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-.secfold>summary::-webkit-details-marker{display:none}
-.secfold>summary h2{margin:0}
-.secfold>summary::after{content:'▸ 押して開く';color:var(--ink-soft);font-size:12.5px;border:1px solid var(--line);border-radius:999px;padding:2px 10px}
-.secfold[open]>summary::after{content:'▾ 閉じる'}
 .abbr[open] summary::after{content:''}
 .abbr[open] p.lead{margin-top:8px}
 .abbr[open] .legend{margin-top:10px}
@@ -389,8 +384,7 @@ a:focus-visible{outline:2px solid var(--leaf);outline-offset:2px}
 
 
 <section class="sec" id="about">
-  <details class="secfold">
-  <summary><h2>この図鑑について<span class="lat">about this page</span></h2></summary>
+  <h2>この図鑑について<span class="lat">about this page</span></h2>
   <p>この図鑑は、AI（Anthropic の Claude）が所有者と対話しながら調べて書いたものです。国内外の販売店の商品ページ、国際アロイド協会（IAS）の登録簿、Instagram の投稿、国立国会図書館の資料などを横断して名前の初出と親子関係を調べ、<b>出典があるものだけ</b>を系統図に反映しています。出典に書かれていない親子関係は推定として「推定」と明記し、名前の多くは正式な登録品種ではなく、販売店や栽培者が付けた呼び名として扱っています。調査・文章・ページの作成はAIが行い、方針の決定と検収は所有者（人間）が行っています。</p>
   <div class="aboutwarn">
     <p><b>AIの調査には、見落としや読み違いがあり得ます。</b>流通名の世界は資料が少なく、販売店ごとに表記が割れ、同じ株が別の名前で売られることも多いため、この図鑑の記載には間違いが含まれている可能性があります。<b>鵜呑みにせず、各項目に付けた出典を確かめてください。</b>間違いに気づいた箇所は、更新履歴とあわせて随時直しています。</p>
@@ -408,7 +402,10 @@ a:focus-visible{outline:2px solid var(--leaf);outline-offset:2px}
   </table>
   </div>
   <p style="font-size:13px">確度の印（A・B・C）は、出典の種類などから機械的に付けています。品種の項目、系統樹の線、流通名さくいんの名前の左に、同じ印を使っています。内容と合わない場合があるので、本文と出典も合わせて見てください。</p>
-  </details>
+  <div class="note">
+    <b>読み方の注意</b>
+    <p>スキンダプサスは斑が不安定で、光量や個体差で模様が大きく変わります。IASの登録簿で公開されているのはマヤリとレガシーの2品種だけです。申請の記録がある名前は35件ほどありますが、ほかの大半は販売者が付けた名前です。インドネシアの販売店は「〇〇の変異」「〇〇がベース」と書くことが多いものの、多くは店自身の説明で、第三者による確認はありません。登録簿の申請記録も、承認前のものは申請者の説明です。店によって親が食い違う場合は両方を載せています。そのため、この図は現時点で資料から確認できた範囲の整理です。</p>
+  </div>
 </section>
 
 <section class="sec" id="phylo">
@@ -1951,15 +1948,8 @@ q.addEventListener('input',function(){var v=q.value.trim().toLowerCase();rows.fo
   </div>
 </section>
 
-<section class="sec">
-  <div class="note">
-    <b>読み方の注意</b>
-    <p>スキンダプサスは斑が不安定で、光量や個体差で模様が大きく変わります。IASの登録簿で公開されているのはマヤリとレガシーの2品種だけです。申請の記録がある名前は35件ほどありますが、ほかの大半は販売者が付けた名前です。インドネシアの販売店は「〇〇の変異」「〇〇がベース」と書くことが多いものの、多くは店自身の説明で、第三者による確認はありません。登録簿の申請記録も、承認前のものは申請者の説明です。店によって親が食い違う場合は両方を載せています。そのため、この図は現時点で資料から確認できた範囲の整理です。</p>
-  </div>
-</section>
-
 <section class="sec" id="sources">
-  <h2 style="font-size:18px">出典</h2>
+  <h2>出典<span class="lat">sources</span></h2>
   <ul class="src">
     <li><a href="https://en.wikipedia.org/wiki/Scindapsus" target="_blank" rel="noopener">Scindapsus — Wikipedia</a></li>
     <li><a href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:2904-1" target="_blank" rel="noopener">Scindapsus Schott — Plants of the World Online (Kew)</a></li>
@@ -2137,11 +2127,10 @@ q.addEventListener('input',function(){var v=q.value.trim().toLowerCase();rows.fo
     <li>スキンダプサス — MIDORIYA 観葉植物専門店</li>
   </ul>
 </section>
-<section class="sec">
-  <details class="secfold">
-  <summary><h2 style="font-size:18px">更新履歴</h2></summary>
+<section class="sec" id="history">
+  <h2>更新履歴<span class="lat">update history</span></h2>
   <ul style="font-size:13px;color:var(--ink-soft)">
-    <li>2026年10月12日：シンガワンを追加（アルギレウス配下。Nakayama Plants が販売し「アルギレウスタイプ。緑の葉に黄色や黄緑色のマーブル斑が入る品種」と説明。1店の説明のみ。名は西カリマンタンの都市シンカワン（Singkawang）に由来か（推定）。Scindapsus Borneo が2025年3月から投稿・販売する「シンカワン ダークポルカドット アルボ」と同系の可能性（推定）を注記）。同日、PC版の検索で入力のたびに画面が結果の先頭へ飛ぶ挙動をやめた（項目へのジャンプは Enter／検索ボタンのときだけ）。「この図鑑について」と「更新履歴」を折り畳みにし、初期状態では閉じるようにした。</li>
+    <li>2026年10月12日：シンガワンを追加（アルギレウス配下。Nakayama Plants が販売し「アルギレウスタイプ。緑の葉に黄色や黄緑色のマーブル斑が入る品種」と説明。1店の説明のみ。名は西カリマンタンの都市シンカワン（Singkawang）に由来か（推定）。Scindapsus Borneo が2025年3月から投稿・販売する「シンカワン ダークポルカドット アルボ」と同系の可能性（推定）を注記）。同日、PC版の検索で入力のたびに画面が結果の先頭へ飛ぶ挙動をやめた（項目へのジャンプは Enter／検索ボタンのときだけ）。「この図鑑について」と「更新履歴」を折り畳みにし、初期状態では閉じるようにした。あわせて出典・更新履歴の見出しをほかの節と同じ見た目に統一し、「読み方の注意」を「この図鑑について」の中に移した。</li>
     <li>2026年10月11日：千葉・船橋のミドリヤ（botanical shop MIDORIYA）のスキンダプサス全25商品を図鑑と突合した。パールズ（エキゾチカの項）とパラワン ブルーラグーン（親不明の品種）を追加（どちらも1店の説明のみ）。トンバックに「シルバースワン」の記録を追記：Kamle Plants は2026年2月のシルバートンバック／シルバーソードの投稿に #scindapsussilverswan を併記。名前自体は2023年1月から愛好家の投稿にあり、「シルバーソード」は @renygarden が2021年に見つけ「シルバーナイトの変異」と書く株でもある（親の記載が分かれる）。ムティアラ ボルネオに英語名の記録（ブラックパール／パール／トレウビー ミニ。FBグループの投稿）を追記。ほかにホワイトクロコダイルのミント型、リップスティックの「シルバーナイト リップスティック」、タトゥーの「タトゥー インド」表記、ブラカワンの「ブラクワン」表記、エキゾチカ 斑入り（ブルーグレー）の「ブルイッシュ グレイ」表記を注記し、「同じ株の別名」の表にシルバートンバックの行を追加した。同日、Scindapsus Borneo の全出品（スキンダプサス506件）も再確認し、ジグソーを項目化した（親不明の品種。店は「2022年発見のsp.」と説明し、さくいんの旧注記「トレウビー ダークフォーム（推定）」とは割れるため確度C）。トレウビー名義（スーパーホワイト／スター／ブラックゴールデン）とエキゾチカ名義（シルバー ドフ／クリームラバ／センジャ トリカラー）の商品名、ダーククラウド オーレアの「スンダランド」表記、SBのシルバースワン（2025年7月掲載。幅広いビロード葉の説明で、トンバック槍形説とは印象が異なる）を注記した。さらに、ミドリヤの2026年9月のイベント持ち込みリスト（Instagram）を突合し、エンブン ペラク（親不明の品種。Instagram の初出は2026年7月の @greenhouse.afl）を追加。同名異株の注記を2件（シルバーキング＝キングマーブルと「ホログラムの変異」の使われ方／ミラクルと「アルギレウス ミラクル＝カプアス トリカラー」）。シルバーナイト パンダ・エキゾチカ プトゥリ カプアス・エキゾチカ シルバー ワチス・シルバーキング ラバ トリカラーは名前のみのため既存項目への注記にとどめ、sp ルミナス・sp ウラルは sp. 株の方針により品種一覧には入れない（SPルミナスはシルバーシエラの項のミドリヤの説明に登場）。マハバラタを「親不明の品種」に昇格した（IG初出2023年5月 @philo.koe。つづり3通りと白斑の存在を記載）。検索を拡張し、図鑑本文に項目がない「名前だけの記録」（流通名さくいんの—行）にも完全一致でジャンプできるようにした（さくいんの該当行へ移動して点滅表示）。さくいんの「まとめた表記ゆれ」も検索の完全一致の対象に加えた。</li>
     <li>2026年10月8日：スーパームーン ティルン→スーパームーン チリンに表記変更（'Supermoon Tilung' の読みの変更。旧表記は同じ株の別名の表に残した。項目名は「ティルン／スーパームーン チリン」）。また、PCで検索欄に入力している間、ページがあちこちに動く症状を修正した（系統樹の強調表示に合わせてページを縦に動かす処理をやめ、入力中は絞り込み結果の先頭に位置を固定。品種へのジャンプは従来どおり Enter／検索ボタンを押したときだけ。スマホの挙動は変えていない）。あわせて、ヘデラセウス配下の「ギャラクシー」の項目名を「ヘデラセウス ギャラクシー」に変更した（種をまたぐ同名の株と見分けやすくするため。従来の販売名「ギャラクシー」だけでも検索で飛べる）。ビジュアル版の標本棚の検索が、全角スペース（例：「ジェイドサテン　オーレア」）やひらがなではヒットしなかったのを修正（系統樹・さくいんと同じ正規化に揃えた）。ビジュアル版のタイトル「スキンダプサス図鑑」を、スマホでも改行せず1行で表示するようにした。</li>
     <li>2026年10月7日：マクマクを追加（アルギレウス配下。Nakayama Plants が同日に販売開始、「センタラムに比べて色合いが深く、銀斑の広がり方も若干異なる」。名前の由来は不明で、確認できた取り扱いは1店のみ）。ギャラクシー（ヘデラセウス配下）に、Nakayama Plants が2026年10月から「コリアセウス ギャラクシー」名義で販売しており種の帰属が店により割れる（同一株かは未確認）ことを追記。クンチャナ→ケンカナに表記変更（'Kencana' の読みの変更。旧表記は同じ株の別名の表に残した）。検索欄に×（クリア）ボタンを追加し、出典の一覧を折りたたみに変更。検索の絞り込み中でも、カード内の「登録簿の記録」などのページ内リンクで飛べるように修正。同日の追記：「ギャラクシー」の名前が3つの別の株（ヘデラセウス／トレウビー系のムーンライト ギャラクシー／コリアセウス）に使われていることを確かめ、コリアセウス ギャラクシーをコリアセウス配下に追加（確度B、1店の説明のみ）。ギャラクシー（ヘデラセウス配下）の注記を「種の帰属が店により割れる」から「同名の別の株」に書き直し、「同じ株の別名」の表も更新した。根拠は、Nakayama Plants がトレビー ギャラクシーとコリアセウス ギャラクシーを別の商品として同時に販売していることと、葉の形の説明の違い（コリアセウスらしいナローの葉）。</li>
@@ -2156,7 +2145,6 @@ q.addEventListener('input',function(){var v=q.value.trim().toLowerCase();rows.fo
     <li>2026年9月27日：国立国会図書館デジタルコレクションの調査結果（日本での歴史）、IAS登録簿の詳細、産地マップ、ビジュアル版を追加。</li>
     <li>2026年9月下旬：図鑑を作成開始。系統樹・原種の一覧・登録品種・流通名さくいんの基本構成。</li>
   </ul>
-  </details>
 </section>
 
 </div>
@@ -2408,7 +2396,7 @@ secs.forEach(function(s){var h=s.querySelector(':scope>h2');if(!h)return;
   h.classList.add('fold-h');h.setAttribute('role','button');h.setAttribute('tabindex','0');
   var c=document.createElement('span');c.className='fold-c';c.setAttribute('aria-hidden','true');h.insertBefore(c,h.firstChild);
   var hint=document.createElement('span');hint.className='fold-hint';hint.textContent='押して開く';h.appendChild(hint);
-  set(s,s.id==='about');
+  set(s,false);
   function tg(){set(s,s.classList.contains('folded'))}
   h.addEventListener('click',function(e){if(e.target.closest('a'))return;tg()});
   h.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();tg()}})});
@@ -2539,7 +2527,4 @@ if(mq){var f=function(){sync()};if(mq.addEventListener)mq.addEventListener('chan
 sync();
 })();
 </script>
-<script>(function(){function openFold(id){var el=document.getElementById(id);if(!el)return;var d=(el.matches&&el.matches('details.secfold'))?el:(el.querySelector&&el.querySelector('details.secfold'));if(!d){var p=el.closest&&el.closest('details.secfold');if(p)d=p}if(d)d.open=true}
-document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href^="#"]');if(a)openFold(a.getAttribute('href').slice(1))});
-if(location.hash)openFold(decodeURIComponent(location.hash.slice(1)));})();</script>
 </body></html>
