@@ -1,0 +1,2516 @@
+{
+ "count": 502,
+ "fetched_at": "2026-10-20 17:45 JST",
+ "items": {
+  "best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Green Polkadot - Best Selected"
+  },
+  "sc-exotica-salaca-no-id-best-selected": {
+   "available": false,
+   "published": "2025-04-28",
+   "title": "Scindapsus Exotica Salaca No Id - Best Selected"
+  },
+  "scinapsus-treubi-multicolor-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Treubi Multicolor - Best Selected"
+  },
+  "scindapsus-acyntia-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus Acyntia - Best Selected"
+  },
+  "scindapsus-acyntia-halfmoon-best-selected": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus Acyntia Halfmoon - Best Selected"
+  },
+  "scindapsus-acyntia-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Acyntia Tricolor - Best Selected"
+  },
+  "scindapsus-agryrareus-albo-best-selected": {
+   "available": false,
+   "published": "2025-06-16",
+   "title": "Scindapsus Agryrareus Albo - Best Selected"
+  },
+  "scindapsus-agryrareus-albo-best-selected-1": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus Agryrareus Albo - Best Selected"
+  },
+  "scindapsus-agryrareus-aurea-best-selected": {
+   "available": false,
+   "published": "2025-02-15",
+   "title": "Scindapsus Agryrareus Aurea - Best Selected"
+  },
+  "scindapsus-agryrareus-aurea-best-selected-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Agryrareus Aurea - Best Selected"
+  },
+  "scindapsus-agryrareus-aurea-halfmoon-best-selected": {
+   "available": false,
+   "published": "2026-05-12",
+   "title": "Scindapsus Agryrareus Aurea Halfmoon - Best Selected"
+  },
+  "scindapsus-agryrareus-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-05-13",
+   "title": "Scindapsus Agryrareus Tricolor - Best Selected"
+  },
+  "scindapsus-agryrareus-tricolor-best-selected-1": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Agryrareus Tricolor - Best Selected - Choice 1"
+  },
+  "scindapsus-agryrareus-tricolor-best-selected-choice-2": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Agryrareus Tricolor - Best Selected - Choice 2"
+  },
+  "scindapsus-agryrareus-tricolor-gog-mint-marble-best-selected": {
+   "available": false,
+   "published": "2025-09-12",
+   "title": "Scindapsus Agryrareus Tricolor Gog Mint Marble - Best Selected"
+  },
+  "scindapsus-agryrarius-fantasy": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Argyraeus Fantasy"
+  },
+  "scindapsus-agryrarius-tricolor": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Agryrarius Tricolor"
+  },
+  "scindapsus-agryrarius-tricolor-gog": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Argyraeus Tricolor Green On Green"
+  },
+  "scindapsus-amaterasu-tricolor-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Amaterasu Tricolor - Best Selected"
+  },
+  "scindapsus-amber": {
+   "available": true,
+   "published": "2025-01-16",
+   "title": "Scindapsus Amber"
+  },
+  "scindapsus-amber-1": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Amber"
+  },
+  "scindapsus-amber-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Amber Tricolor - Best Selected"
+  },
+  "scindapsus-amoy-best-selected": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Amoy - Best Selected"
+  },
+  "scindapsus-amoy-best-selected-1": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Amoy - Best Selected"
+  },
+  "scindapsus-andalas": {
+   "available": true,
+   "published": "2025-03-21",
+   "title": "Scindapsus Andalas"
+  },
+  "scindapsus-andalas-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Andalas - Best Selected"
+  },
+  "scindapsus-andalas-best-selected-1": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus andalas - Best Selected"
+  },
+  "scindapsus-argyraeus-fatamorgana": {
+   "available": false,
+   "published": "2025-06-16",
+   "title": "Scindapsus Argyraeus Fatamorgana"
+  },
+  "scindapsus-argyraeus-marble-white-crocodile": {
+   "available": true,
+   "published": "2025-02-13",
+   "title": "Scindapsus Argyraeus Marble White Crocodile"
+  },
+  "scindapsus-argyraeus-marble-white-crocodile-best-selected": {
+   "available": false,
+   "published": "2025-02-13",
+   "title": "Scindapsus Argyraeus Marble White Crocodile - Best Selected"
+  },
+  "scindapsus-argyraeus-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-10-03",
+   "title": "Scindapsus Argyraeus Tricolor - Best Selected"
+  },
+  "scindapsus-army-polkadot-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Army Polkadot - Best Selected"
+  },
+  "scindapsus-aurion": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Aurion"
+  },
+  "scindapsus-aurora-best-selected": {
+   "available": false,
+   "published": "2026-02-05",
+   "title": "Scindapsus Aurora - Best Selected"
+  },
+  "scindapsus-bahorok": {
+   "available": true,
+   "published": "2025-02-14",
+   "title": "Scindapsus Bahorok"
+  },
+  "scindapsus-bakudapati": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Bakudapati"
+  },
+  "scindapsus-bakudapati-best-selected": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus Bakudapati - Best Selected"
+  },
+  "scindapsus-bakudapati-choice-2-best-selected": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Bakudapati Choice 2 - Best Selected"
+  },
+  "scindapsus-bakudapati-variegated-best-selected": {
+   "available": false,
+   "published": "2026-05-12",
+   "title": "Scindapsus Bakudapati Variegated - Best Selected"
+  },
+  "scindapsus-banyumas": {
+   "available": false,
+   "published": "2025-11-03",
+   "title": "Scindapsus Banyumas"
+  },
+  "scindapsus-baticon": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Baticon"
+  },
+  "scindapsus-black-dragon-best-selected": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Black Dragon - Best Selected"
+  },
+  "scindapsus-black-mamba": {
+   "available": true,
+   "published": "2024-12-27",
+   "title": "Scindapsus Black Mamba"
+  },
+  "scindapsus-black-permata-best-selected": {
+   "available": false,
+   "published": "2026-05-12",
+   "title": "Scindapsus Black Permata - Best Selected"
+  },
+  "scindapsus-black-satin-variegata": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Black Satin Variegata"
+  },
+  "scindapsus-black-wizard": {
+   "available": true,
+   "published": "2025-01-16",
+   "title": "Scindapsus Black Wizard"
+  },
+  "scindapsus-black-wizard-best-selected": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus Black Wizard - Best Selected"
+  },
+  "scindapsus-blue-albo": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Blue Albo"
+  },
+  "scindapsus-blue-albo-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Blue Albo - Best Selected"
+  },
+  "scindapsus-blue-albo-salaca": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Blue Albo Salaca"
+  },
+  "scindapsus-blue-sapphire": {
+   "available": false,
+   "published": "2024-12-10",
+   "title": "Scindapsus Blue Sapphire"
+  },
+  "scindapsus-blue-splash-variegata": {
+   "available": false,
+   "published": "2025-11-03",
+   "title": "Scindapsus blue splash variegata"
+  },
+  "scindapsus-blurik": {
+   "available": true,
+   "published": "2025-01-08",
+   "title": "Scindapsus Blurik"
+  },
+  "scindapsus-bunaken": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Bunaken"
+  },
+  "scindapsus-bunaken-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Bunaken - Best Selected"
+  },
+  "scindapsus-bunaken-best-selected-1": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Bunaken - Best Selected"
+  },
+  "scindapsus-bunaken-halfmoon-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Bunaken Halfmoon - Best Selected"
+  },
+  "scindapsus-bundle-package": {
+   "available": true,
+   "published": "2025-04-08",
+   "title": "Scindapsus Bundle Package"
+  },
+  "scindapsus-cakrabuana-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Cakrabuana - Best Selected"
+  },
+  "scindapsus-coreaceus": {
+   "available": true,
+   "published": "2025-06-26",
+   "title": "Scindapsus Coreaceus"
+  },
+  "scindapsus-creamy-splash": {
+   "available": false,
+   "published": "2025-01-13",
+   "title": "Scindapsus Creamy Splash"
+  },
+  "scindapsus-creme-blue": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Creme Brulee"
+  },
+  "scindapsus-creme-brulee-best-selected": {
+   "available": false,
+   "published": "2025-06-15",
+   "title": "Scindapsus Creme Brulee- Best Selected"
+  },
+  "scindapsus-creme-brulee-best-selected-1": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Creme Brulee - Best Selected"
+  },
+  "scindapsus-creme-splash-best-selected": {
+   "available": false,
+   "published": "2025-06-26",
+   "title": "Scindapsus Creme Splash - Best Selected"
+  },
+  "scindapsus-dara-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Dara - Best Selected"
+  },
+  "scindapsus-dark-agryrareus-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Dark Agryrareus Tricolor - Best Selected"
+  },
+  "scindapsus-dark-argyraeus-variegated-best-selected": {
+   "available": false,
+   "published": "2025-02-14",
+   "title": "Scindapsus Dark Argyraeus Variegated - Best Selected"
+  },
+  "scindapsus-dark-cloud-aurea-best-selected": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Dark Cloud Aurea 'Sundaland' Choice 1 - Best Selected"
+  },
+  "scindapsus-dark-cloud-aurea-sundaland-choice-2-best-selected-copy": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus Dark Cloud Aurea 'Sundaland' Choice 2 - Best Selected"
+  },
+  "scindapsus-dark-cloud-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Dark Cloud - Best Selected"
+  },
+  "scindapsus-dark-cloud-marble-aurea": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Dark Cloud Marble Aurea"
+  },
+  "scindapsus-dark-cloud-salacamountain": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Dark Cloud Salacamountain"
+  },
+  "scindapsus-dark-polkadot-amoy-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus dark polkadot ‘amoy’ - Best Selected"
+  },
+  "scindapsus-dark-princes": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Dark Princes"
+  },
+  "scindapsus-dark-splash-green-on-green-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Dark Splash Green On Green - Best Selected"
+  },
+  "scindapsus-dark-tricolor": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Agryrareus Aurea"
+  },
+  "scindapsus-dark-tricolor-1": {
+   "available": true,
+   "published": "2025-08-27",
+   "title": "Scindapsus Dark Tricolor"
+  },
+  "scindapsus-dark-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus Dark Tricolor - Best Selected"
+  },
+  "scindapsus-dragon-scale-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Dragon Scale - Best Selected"
+  },
+  "scindapsus-dragon-splash": {
+   "available": true,
+   "published": "2025-02-15",
+   "title": "Scindapsus Dragon Splash"
+  },
+  "scindapsus-dragon-splash-aurea-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Dragon Splash Aurea - Best Selected"
+  },
+  "scindapsus-dragon-splash-best-selected": {
+   "available": false,
+   "published": "2025-02-15",
+   "title": "Scindapsus Dragon Splash - Best Selected"
+  },
+  "scindapsus-dragon-splash-best-selected-1": {
+   "available": false,
+   "published": "2025-06-26",
+   "title": "Scindapsus Dragon Splash Choice 1 - Best Selected"
+  },
+  "scindapsus-dragon-splash-best-selected-2": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Dragon Splash - Best Selected"
+  },
+  "scindapsus-dragon-splash-choice-2-best-selected": {
+   "available": false,
+   "published": "2025-06-26",
+   "title": "Scindapsus Dragon Splash Choice 2 - Best Selected"
+  },
+  "scindapsus-dragon-splash-marble-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Dragon Splash Marble Choice 1 - Best Selected"
+  },
+  "scindapsus-dragon-splash-marble-best-selected-1": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Dragon Splash Marble - Best Selected"
+  },
+  "scindapsus-dragon-splash-marble-choice-2-best-selected-1": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Dragon Splash Marble Choice 2 - Best Selected"
+  },
+  "scindapsus-emerald-mist": {
+   "available": true,
+   "published": "2025-08-07",
+   "title": "Scindapsus emerald mist"
+  },
+  "scindapsus-emerald-mist-best-selected": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus Emerald Mist - Best Selected"
+  },
+  "scindapsus-erlinda-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Acyntia - Best Selected"
+  },
+  "scindapsus-excotica-gog-best-selected": {
+   "available": false,
+   "published": "2026-05-05",
+   "title": "Scindapsus Excotica GOG - Best Selected"
+  },
+  "scindapsus-excotica-gog-no-id-best-selected": {
+   "available": false,
+   "published": "2026-06-24",
+   "title": "Scindapsus Excotica Gog No Id - Best Selected"
+  },
+  "scindapsus-excotica-marble": {
+   "available": true,
+   "published": "2025-02-13",
+   "title": "Scindapsus Excotica Marble"
+  },
+  "scindapsus-excotica-marble-choice-1-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Excotica Marble Choice 1 - Best Selected"
+  },
+  "scindapsus-excotica-marble-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Excotica Marble Choice 2 - Best Selected"
+  },
+  "scindapsus-excotica-mint-sp-banyumas-best-selected": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Excotica Mint Sp Banyumas - Best Selected"
+  },
+  "scindapsus-excotica-no-id-best-selected-choice-1-copy": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Excotica No Id- Best Selected - Choice 1"
+  },
+  "scindapsus-excotica-no-id-best-selected-choice-2": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Excotica No Id- Best Selected - Choice 2"
+  },
+  "scindapsus-excotica-no-id-best-selected-choice-3": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Excotica No Id- Best Selected - Choice 3"
+  },
+  "scindapsus-excotica-no-id-best-selected-choice-4": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Excotica No Id- Best Selected - Choice 4"
+  },
+  "scindapsus-excotica-senja-tricolor-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Excotica Senja Tricolor - Best Selected"
+  },
+  "scindapsus-excotica-tricolor-mutation-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Excotica Tricolor Mutation - Best Selected"
+  },
+  "scindapsus-excotica-white-marble": {
+   "available": true,
+   "published": "2025-02-15",
+   "title": "Scindapsus Excotica White Marble"
+  },
+  "scindapsus-exotica-aurea-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus Exotica Aurea - Best Selected"
+  },
+  "scindapsus-exotica-aurea-best-selected-1": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Exotica Aurea - Best Selected"
+  },
+  "scindapsus-exotica-aurea-halfmoon-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Exotica Aurea Halfmoon - Best Selected"
+  },
+  "scindapsus-exotica-borneo-no-id": {
+   "available": false,
+   "published": "2025-01-08",
+   "title": "Scindapsus Exotica Borneo No Id"
+  },
+  "scindapsus-exotica-cream-lava-best-selected": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Exotica Cream Lava - Best Selected"
+  },
+  "scindapsus-exotica-creme-aurea-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Exotica Creme Aurea Tricolor - Best Selected"
+  },
+  "scindapsus-exotica-creme-marble-choice-1-best-selected": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus Exotica Creme Marble Choice 1 - Best Selected"
+  },
+  "scindapsus-exotica-creme-marble-choice-2-best-selected": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus Exotica Creme Marble Choice 2 - Best Selected"
+  },
+  "scindapsus-exotica-creme-marble-var-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus Exotica Creme Marble Var - Best Selected"
+  },
+  "scindapsus-exotica-golden-dust-best-selected": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Exotica Golden Dust - Best Selected"
+  },
+  "scindapsus-exotica-golden-mint-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Exotica Golden Mint - Best Selected"
+  },
+  "scindapsus-exotica-green-on-green-halfmoon-best-selected": {
+   "available": false,
+   "published": "2025-09-12",
+   "title": "Scindapsus Exotica Green On Green Halfmoon - Best Selected"
+  },
+  "scindapsus-exotica-halfmoon-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Exotica Halfmoon - Best Selected"
+  },
+  "scindapsus-exotica-halfmoon-gog-best-selected": {
+   "available": false,
+   "published": "2026-05-12",
+   "title": "Scindapsus Exotica Halfmoon Gog - Best Selected"
+  },
+  "scindapsus-exotica-halfmoon-no-id-best-selected": {
+   "available": false,
+   "published": "2026-06-29",
+   "title": "Scindapsus Exotica Halfmoon No ID - Best Selected"
+  },
+  "scindapsus-exotica-kapuas-green-on-green-choice-1-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Exotica Kapuas Green On Green Choice 1 - Best Selected"
+  },
+  "scindapsus-exotica-kapuas-green-on-green-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-02-05",
+   "title": "Scindapsus Exotica Kapuas Green On Green Choice 2 - Best Selected"
+  },
+  "scindapsus-exotica-marble-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Exotica Marble - Best Selected"
+  },
+  "scindapsus-exotica-marble-best-selected-1": {
+   "available": false,
+   "published": "2026-06-22",
+   "title": "Scindapsus Exotica Marble - Best Selected"
+  },
+  "scindapsus-exotica-marble-no-id": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Exotica Marble No I'd"
+  },
+  "scindapsus-exotica-marble-no-id-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Exotica Marble No Id Choice 1 - Best Selected"
+  },
+  "scindapsus-exotica-marble-no-id-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Exotica Marble No Id Choice 2 - Best Selected"
+  },
+  "scindapsus-exotica-marble-no-id-choice-3-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Exotica Marble No Id Choice 3 - Best Selected"
+  },
+  "scindapsus-exotica-marble-sp-banyumas-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Exotica Marble Sp Banyumas - Best Selected"
+  },
+  "scindapsus-exotica-marble-sp-banyumas-best-selected-1": {
+   "available": false,
+   "published": "2025-05-09",
+   "title": "Scindapsus Exotica Marble Sp Banyumas - Best Selected"
+  },
+  "scindapsus-exotica-marble-sp-banyumas-best-selected-2": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Exotica Marble Sp Banyumas - Best Selected"
+  },
+  "scindapsus-exotica-no-id-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Exotica No Id - Best Selected"
+  },
+  "scindapsus-exotica-no-id-best-selected-1": {
+   "available": false,
+   "published": "2026-06-29",
+   "title": "Scindapsus Exotica no id - Best Selected"
+  },
+  "scindapsus-exotica-no-id-halfmoon-best-selected": {
+   "available": false,
+   "published": "2026-06-29",
+   "title": "Scindapsus Exotica No ID Halfmoon - Best Selected"
+  },
+  "scindapsus-exotica-salaca-no-id": {
+   "available": false,
+   "published": "2025-04-06",
+   "title": "Scindapsus Exotica Salaca No Id - Best Selected"
+  },
+  "scindapsus-exotica-silver-doff-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus Exotica Silver Doff - Best Selected"
+  },
+  "scindapsus-exotica-silver-form-best-selected": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Exotica Silver Form - Best Selected"
+  },
+  "scindapsus-exotica-solaris": {
+   "available": true,
+   "published": "2025-05-13",
+   "title": "Scindapsus Exotica Solaris"
+  },
+  "scindapsus-exotica-solaris-best-selected": {
+   "available": false,
+   "published": "2025-05-13",
+   "title": "Scindapsus Exotica Solaris - Best Selected"
+  },
+  "scindapsus-exotica-solaris-best-selected-1": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Exotica Solaris - Best Selected"
+  },
+  "scindapsus-exotica-swarna-bhumi": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Exotica Swarnabhumi"
+  },
+  "scindapsus-exotica-tembaga": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Exotica Tembaga"
+  },
+  "scindapsus-exotica-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus Exotica Tricolor- Best Selected"
+  },
+  "scindapsus-exotica-tricolor-best-selected-1": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Exotica tricolor - Best Selected"
+  },
+  "scindapsus-exotica-var-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Exotica Var - Best Selected"
+  },
+  "scindapsus-exotica-variagata-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Exotica Variagata Tricolor - Best Selected"
+  },
+  "scindapsus-exotica-variegated-blue-grey": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Exotica Variegated ( Blue Grey )"
+  },
+  "scindapsus-exsotika-golden-mint": {
+   "available": true,
+   "published": "2024-12-26",
+   "title": "Scindapsus Exsotika Golden Mint"
+  },
+  "scindapsus-fantasy-best-selected": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus Fantasy Choice 1 - Best Selected"
+  },
+  "scindapsus-fantasy-best-selected-choice-1": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Fantasy - Best Selected"
+  },
+  "scindapsus-fantasy-choice-2-best-selected": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus Fantasy Choice 2 - Best Selected"
+  },
+  "scindapsus-fatamorgana-best-selected": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Fatamorgana - Best Selected"
+  },
+  "scindapsus-foresta-best-selected": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Foresta - Best Selected"
+  },
+  "scindapsus-foresta-mint-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Foresta mint - Best Selected"
+  },
+  "scindapsus-foresta-var-choice-1-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Foresta Var Choice 1 - Best Selected"
+  },
+  "scindapsus-foresta-var-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Foresta Var Choice 2 - Best Selected"
+  },
+  "scindapsus-gamora-mutation-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Gamora Mutation - Best Selected"
+  },
+  "scindapsus-garawa-best-selected": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus Garawa - Best Selected"
+  },
+  "scindapsus-geulis": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Geulis"
+  },
+  "scindapsus-geulis-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Geulis - Best Selected"
+  },
+  "scindapsus-geulis-best-selected-1": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Geulis - Best Selected"
+  },
+  "scindapsus-geulis-mint-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Geulis Mint - Best Selected"
+  },
+  "scindapsus-golden-corn": {
+   "available": true,
+   "published": "2025-03-21",
+   "title": "Scindapsus Golden Crown"
+  },
+  "scindapsus-golden-mint": {
+   "available": true,
+   "published": "2024-12-26",
+   "title": "Scindapsus Golden Mint"
+  },
+  "scindapsus-golden-mint-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Golden Mint - Best Selected"
+  },
+  "scindapsus-gray-amazonica": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Gray Amazonica"
+  },
+  "scindapsus-green-army": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Green Army"
+  },
+  "scindapsus-green-army-stabillo": {
+   "available": true,
+   "published": "2024-12-28",
+   "title": "Scindapsus Green Army Stabillo"
+  },
+  "scindapsus-green-diamond": {
+   "available": true,
+   "published": "2025-01-08",
+   "title": "Scindapsus Green Diamond"
+  },
+  "scindapsus-green-diamond-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Green Diamond - Best Selected"
+  },
+  "scindapsus-green-diamond-best-selected-1": {
+   "available": false,
+   "published": "2025-09-12",
+   "title": "Scindapsus Green Diamond  - Best Selected"
+  },
+  "scindapsus-green-diamond-best-selected-2": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Green diamond - Best Selected"
+  },
+  "scindapsus-green-dragon-best-selected": {
+   "available": false,
+   "published": "2025-02-15",
+   "title": "Scindapsus Green Dragon - Best Selected"
+  },
+  "scindapsus-green-dragon-best-selected-1": {
+   "available": false,
+   "published": "2025-04-28",
+   "title": "Scindapsus Green Dragon - Best Selected"
+  },
+  "scindapsus-green-splash-marble-best-selected": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Green Splash Marble - Best Selected"
+  },
+  "scindapsus-green-tombak-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Green Tombak - Best Selected"
+  },
+  "scindapsus-guntur": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Guntur"
+  },
+  "scindapsus-haderaceus-cream-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Haderaceus Cream - Best Selected"
+  },
+  "scindapsus-halimun-salak": {
+   "available": true,
+   "published": "2025-02-15",
+   "title": "Scindapsus Halimun Salak"
+  },
+  "scindapsus-hederaceus-gog-best-selected": {
+   "available": false,
+   "published": "2026-06-29",
+   "title": "Scindapsus Hederaceus Gog - Best Selected"
+  },
+  "scindapsus-hologram": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Hologram"
+  },
+  "scindapsus-infinity-best-selected": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus Infinity - Best Selected"
+  },
+  "scindapsus-jade-satin-albo": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Jade Satin Albo"
+  },
+  "scindapsus-jade-satin-aurea": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Jade Satin Aurea"
+  },
+  "scindapsus-jade-satin-mint-marble": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Jade Satin Mint Marble"
+  },
+  "scindapsus-jade-satin-unicorn": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Jade Satin Unicorn"
+  },
+  "scindapsus-jigsaw-dark-form-polkadot": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Jigsaw Dark Form (Polkadot)"
+  },
+  "scindapsus-jung-jung-buih-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Jung Jung Buih - Best Selected"
+  },
+  "scindapsus-jung-jung-buih-marble": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Jung Jung Buih Marble"
+  },
+  "scindapsus-jung-jung-buih-var-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Jung Jung Buih Var - Best Selected"
+  },
+  "scindapsus-kalimantaru-best-selected": {
+   "available": false,
+   "published": "2026-09-17",
+   "title": "Scindapsus Kalimantaru - Best Selected"
+  },
+  "scindapsus-kanaka-best-selected": {
+   "available": false,
+   "published": "2026-02-05",
+   "title": "Scindapsus Kanaka - Best Selected"
+  },
+  "scindapsus-kapuas-agryrarius-dark-variegated": {
+   "available": true,
+   "published": "2024-12-25",
+   "title": "Scindapsus Kapuas (Agryrarius Dark Variegated) Var Halfmoon"
+  },
+  "scindapsus-kapuas-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus Kapuas - Best Selected"
+  },
+  "scindapsus-kapuas-best-selected-1": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Kapuas - Best Selected"
+  },
+  "scindapsus-kencana-best-selected": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Kencana - Best Selected"
+  },
+  "scindapsus-keraton": {
+   "available": true,
+   "published": "2025-12-30",
+   "title": "Scindapsus Keraton"
+  },
+  "scindapsus-kunzo-best-selected": {
+   "available": false,
+   "published": "2025-10-03",
+   "title": "Scindapsus Sparkling Kunzo - Best Selected"
+  },
+  "scindapsus-kusuma": {
+   "available": true,
+   "published": "2026-01-20",
+   "title": "Scindapsus Kusuma"
+  },
+  "scindapsus-legacy": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Legacy"
+  },
+  "scindapsus-leopard": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Leopard"
+  },
+  "scindapsus-leopard-best-selected": {
+   "available": false,
+   "published": "2026-05-05",
+   "title": "Scindapsus Leopard - Best Selected"
+  },
+  "scindapsus-longispitatus-green-on-green-variegated": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Longispitatus Green On Green Variegated"
+  },
+  "scindapsus-longispitatus-lipstik": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus longispitatus lipstick"
+  },
+  "scindapsus-longispitatus-yellow-mint": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Longispitatus Yellow Mint"
+  },
+  "scindapsus-luna-glow": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus  Luna Glow"
+  },
+  "scindapsus-macan": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Macan"
+  },
+  "scindapsus-macaro": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Macaro"
+  },
+  "scindapsus-mahabrata": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Mahabrata"
+  },
+  "scindapsus-mahabrata-albo-best-selected": {
+   "available": true,
+   "published": "2026-09-15",
+   "title": "Scindapsus Mahabrata albo - Best Selected"
+  },
+  "scindapsus-mahabrata-albo-best-selected-1": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Mahabrata albo - Best Selected"
+  },
+  "scindapsus-mahabrata-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Mahabrata - Best Selected"
+  },
+  "scindapsus-manggo-choice-1": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Manggo Choice 1"
+  },
+  "scindapsus-manggo-choice-2": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Manggo Choice 2"
+  },
+  "scindapsus-mango": {
+   "available": true,
+   "published": "2025-10-07",
+   "title": "Scindapsus Mango"
+  },
+  "scindapsus-mangurai": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Mangurai"
+  },
+  "scindapsus-mangurai-black-best-selected": {
+   "available": false,
+   "published": "2026-05-12",
+   "title": "Scindapsus Mangurai Black - Best Selected"
+  },
+  "scindapsus-martapura-galaxy-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus martapura galaxy - Best Selected"
+  },
+  "scindapsus-mayari": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Mayari"
+  },
+  "scindapsus-medusa-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Nebula - Best Selected"
+  },
+  "scindapsus-miracle-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Miracle - Best Selected"
+  },
+  "scindapsus-miracle-best-selected-1": {
+   "available": false,
+   "published": "2025-10-03",
+   "title": "Scindapsus Miracle - Best Selected"
+  },
+  "scindapsus-monlight-concelation": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Monlight Concelation"
+  },
+  "scindapsus-monlight-white-marble-narrow-foam": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Monlight White Marble Narrow Foam"
+  },
+  "scindapsus-mutiara-albo": {
+   "available": true,
+   "published": "2025-02-14",
+   "title": "Scindapsus Mutiara Albo"
+  },
+  "scindapsus-mutiara-albo-best-selected": {
+   "available": false,
+   "published": "2025-02-14",
+   "title": "Scindapsus Mutiara Albo - Best Selected"
+  },
+  "scindapsus-mutiara-borneo": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Mutiara Borneo"
+  },
+  "scindapsus-nebula": {
+   "available": true,
+   "published": "2025-02-15",
+   "title": "Scindapsus Nebula"
+  },
+  "scindapsus-nebula-best-selected": {
+   "available": false,
+   "published": "2025-02-15",
+   "title": "Scindapsus Nebula - Best Selected"
+  },
+  "scindapsus-nebula-best-selected-1": {
+   "available": false,
+   "published": "2026-05-05",
+   "title": "Scindapsus Nebula - Best Selected"
+  },
+  "scindapsus-new-sp": {
+   "available": false,
+   "published": "2025-11-03",
+   "title": "Scindapsus new sp"
+  },
+  "scindapsus-nirmala-mutation-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Nirmala Mutation - Best Selected"
+  },
+  "scindapsus-no-id": {
+   "available": false,
+   "published": "2025-01-08",
+   "title": "Scindapsus No Id"
+  },
+  "scindapsus-no-id-best-selected": {
+   "available": false,
+   "published": "2025-04-28",
+   "title": "Scindapsus No Id - Best Selected"
+  },
+  "scindapsus-no-id-best-selected-1": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus NO ID - Best Selected - Choice 1"
+  },
+  "scindapsus-no-id-best-selected-2": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus No ID - Best Selected"
+  },
+  "scindapsus-no-id-best-selected-3": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus No Id - Best Selected"
+  },
+  "scindapsus-no-id-best-selected-4": {
+   "available": false,
+   "published": "2026-09-15",
+   "title": "Scindapsus Black splash albo - Best Selected"
+  },
+  "scindapsus-no-id-best-selected-choice-10": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus No Id - Best Selected - Choice 10"
+  },
+  "scindapsus-no-id-best-selected-choice-11": {
+   "available": false,
+   "published": "2025-09-12",
+   "title": "Scindapsus No Id - Best Selected - Choice 11"
+  },
+  "scindapsus-no-id-best-selected-choice-12": {
+   "available": false,
+   "published": "2025-09-12",
+   "title": "Scindapsus No Id - Best Selected - Choice 12"
+  },
+  "scindapsus-no-id-best-selected-choice-2": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus NO ID - Best Selected - Choice 2"
+  },
+  "scindapsus-no-id-best-selected-choice-3": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus NO ID - Best Selected - Choice 3"
+  },
+  "scindapsus-no-id-best-selected-choice-4": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus NO ID - Best Selected - Choice 4"
+  },
+  "scindapsus-no-id-best-selected-choice-5": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus NO ID - Best Selected - Choice 5"
+  },
+  "scindapsus-no-id-best-selected-choice-6": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus NO ID - Best Selected - Choice 6"
+  },
+  "scindapsus-no-id-best-selected-choice-7": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus NO ID - Best Selected - Choice 7"
+  },
+  "scindapsus-no-id-best-selected-choice-8": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus No Id - Best Selected - Choice 8"
+  },
+  "scindapsus-no-id-best-selected-choice-9": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus No Id - Best Selected - Choice 9"
+  },
+  "scindapsus-no-id-choice-1-best-selected": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus No Id Choice 1 - Best Selected"
+  },
+  "scindapsus-no-id-choice-2-best-selected": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus No Id Choice 2 - Best Selected"
+  },
+  "scindapsus-no-id-marble-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Silver turtle - Best Selected"
+  },
+  "scindapsus-no-id-tricolor": {
+   "available": false,
+   "published": "2025-11-03",
+   "title": "Scindapsus no id tricolor"
+  },
+  "scindapsus-orbit-aurea-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Orbit Aurea - Best Selected"
+  },
+  "scindapsus-padjajaran": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Padjajaran"
+  },
+  "scindapsus-parahiyangan": {
+   "available": false,
+   "published": "2025-04-06",
+   "title": "Scindapsus Parahiyangan - Best Selected"
+  },
+  "scindapsus-parahiyangan-aurea": {
+   "available": true,
+   "published": "2025-04-08",
+   "title": "Scindapsus Parahiyangan Aurea"
+  },
+  "scindapsus-parahiyangan-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Parahiyangan Tricolor - Best Selected"
+  },
+  "scindapsus-parahiyangan-tricolor-best-selected-1": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Parahiyangan Tricolor - Best Selected"
+  },
+  "scindapsus-parahiyangan-tricolor-green-on-green-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Parahiyangan Tricolor Green On Green - Best Selected"
+  },
+  "scindapsus-peacok-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus peacok - Best Selected"
+  },
+  "scindapsus-peasun": {
+   "available": true,
+   "published": "2025-02-13",
+   "title": "Scindapsus Peasun"
+  },
+  "scindapsus-peasun-best-selected-1": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Peasun - Best Selected"
+  },
+  "scindapsus-picta-aurea": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Picta Aurea"
+  },
+  "scindapsus-pictus-argyraeus-albo": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Pictus Argyraeus Albo"
+  },
+  "scindapsus-pictus-army-tricolor": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus pictus army tricolor"
+  },
+  "scindapsus-pictus-atlantic-frost": {
+   "available": false,
+   "published": "2024-12-10",
+   "title": "Scindapsus Pictus Atlantic Frost"
+  },
+  "scindapsus-pictus-atlantic-frost-best-selected": {
+   "available": false,
+   "published": "2025-08-07",
+   "title": "Scindapsus Pictus 'Atlantic Frost' - Best Selected"
+  },
+  "scindapsus-pictus-dark-aurea-variegated": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Pictus Dark Aurea Variegated"
+  },
+  "scindapsus-pictus-exotica-arjuna": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Pictus Exotica Arjuna"
+  },
+  "scindapsus-pictus-green-tombak": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Pictus Green Tombak"
+  },
+  "scindapsus-pictus-silver-splash-aurea": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Pictus Silver Splash Aurea"
+  },
+  "scindapsus-porakenesis-albo": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Porakenesis Albo"
+  },
+  "scindapsus-porakenesis-silver": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Porakenesis Silver"
+  },
+  "scindapsus-porakenesis-silver-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus porakenesis silver - Best Selected"
+  },
+  "scindapsus-prabu": {
+   "available": true,
+   "published": "2025-01-10",
+   "title": "Scindapsus Prabu"
+  },
+  "scindapsus-prabu-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Prabu - Best Selected"
+  },
+  "scindapsus-prabu-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Prabu Tricolor - Best Selected"
+  },
+  "scindapsus-prabu-tricolor-best-selected-1": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Prabu Tricolor - Best Selected"
+  },
+  "scindapsus-prakenesis-aurea-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Prakenesis aurea  - Best Selected"
+  },
+  "scindapsus-pyhton-best-selected": {
+   "available": false,
+   "published": "2026-09-17",
+   "title": "Scindapsus Pyhton - Best Selected"
+  },
+  "scindapsus-radja-best-selected": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Radja - Best Selected"
+  },
+  "scindapsus-rajatapura": {
+   "available": true,
+   "published": "2025-01-16",
+   "title": "Scindapsus Rajatapura"
+  },
+  "scindapsus-rajatapura-best-selected": {
+   "available": false,
+   "published": "2025-05-13",
+   "title": "Scindapsus Rajatapura - Best Selected"
+  },
+  "scindapsus-rajatapura-best-selected-1": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Rajatapura - Best Selected"
+  },
+  "scindapsus-rajatapura-best-selected-2": {
+   "available": false,
+   "published": "2026-09-17",
+   "title": "Scindapsus Rajatapura - Best Selected"
+  },
+  "scindapsus-rajatapura-best-selected-3": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus rajatapura - Best Selected"
+  },
+  "scindapsus-rajatapura-marble-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Rajatapura Marble - Best Selected"
+  },
+  "scindapsus-rajatapura-marble-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Rajatapura Marble Tricolor - Best Selected"
+  },
+  "scindapsus-rajatapura-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Rajatapura Tricolor - Best Selected"
+  },
+  "scindapsus-rajatapura-tricolor-best-selected-1": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Rajatapura Tricolor - Best Selected"
+  },
+  "scindapsus-rajatapura-tricolor-best-selected-2": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Rajatapura Tricolor - Best Selected"
+  },
+  "scindapsus-rajatapura-tricolor-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Rajatapura Tricolor Choice 2 - Best Selected"
+  },
+  "scindapsus-rajatapura-tricolor-choice-3-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Rajatapura Tricolor Choice 3 - Best Selected"
+  },
+  "scindapsus-rajataputa-tricolor-best-selected": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Rajataputa Tricolor - Best Selected"
+  },
+  "scindapsus-rajataputra-best-selected": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus Rajataputra - Best Selected"
+  },
+  "scindapsus-raven": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Raven"
+  },
+  "scindapsus-raven-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Raven - Best Selected"
+  },
+  "scindapsus-rubicon-aurea": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Rubicon Aurea"
+  },
+  "scindapsus-rubicon-best-selected": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Rubicon - Best Selected"
+  },
+  "scindapsus-rubicon-best-selected-1": {
+   "available": false,
+   "published": "2026-06-29",
+   "title": "Scindapsus Rubicon - Best Selected"
+  },
+  "scindapsus-rubicon-gog-best-selected": {
+   "available": false,
+   "published": "2026-05-12",
+   "title": "Scindapsus Rubicon Gog - Best Selected"
+  },
+  "scindapsus-rubicon-green-on-green-variegata": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Rubicon Green On Green Variegated"
+  },
+  "scindapsus-rupertis-albo-best-selected": {
+   "available": false,
+   "published": "2026-05-05",
+   "title": "Scindapsus Rupertis Albo - Best Selected"
+  },
+  "scindapsus-rupertis-neon-best-selected": {
+   "available": false,
+   "published": "2026-05-05",
+   "title": "Scindapsus Rupertis Neon - Best Selected"
+  },
+  "scindapsus-rupertis-neon-tricolor": {
+   "available": true,
+   "published": "2025-03-11",
+   "title": "Scindapsus Rupertis Neon Tricolor"
+  },
+  "scindapsus-rupestris-neon": {
+   "available": true,
+   "published": "2024-12-26",
+   "title": "Scindapsus Rupestris Neon"
+  },
+  "scindapsus-sadewa": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Sadewa"
+  },
+  "scindapsus-salacamount-best-selected": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Salacamount - Best Selected"
+  },
+  "scindapsus-samurai": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Samurai"
+  },
+  "scindapsus-sembada-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Sembada - Best Selected"
+  },
+  "scindapsus-senara": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Senara"
+  },
+  "scindapsus-senopati": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Senopati"
+  },
+  "scindapsus-senopati-best-selected": {
+   "available": false,
+   "published": "2025-06-15",
+   "title": "Scindapsus Senopati - Best Selected"
+  },
+  "scindapsus-senopati-best-selected-1": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Senopati - Best Selected"
+  },
+  "scindapsus-senopati-best-selected-2": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Senopati - Best Selected"
+  },
+  "scindapsus-senopati-best-selected-3": {
+   "available": false,
+   "published": "2026-05-05",
+   "title": "Scindapsus Senopati - Best Selected"
+  },
+  "scindapsus-senopati-best-selected-4": {
+   "available": false,
+   "published": "2026-05-12",
+   "title": "Scindapsus Senopati - Best Selected"
+  },
+  "scindapsus-senopati-best-selected-5": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Senopati - Best Selected"
+  },
+  "scindapsus-sentarum-best-selected": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus Sentarum - Best Selected"
+  },
+  "scindapsus-sentarum-best-selected-1": {
+   "available": false,
+   "published": "2026-05-05",
+   "title": "Scindapsus Sentarum - Best Selected"
+  },
+  "scindapsus-sentarum-choice-1-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Sentarum Choice 1 - Best Selected"
+  },
+  "scindapsus-sentarum-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Sentarum Choice 2 - Best Selected"
+  },
+  "scindapsus-sentarum-variegated": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Sentarum Variegated"
+  },
+  "scindapsus-sentarum-variegated-best-selected": {
+   "available": false,
+   "published": "2025-04-08",
+   "title": "Scindapsus Sentarum Variegated - Best Selected"
+  },
+  "scindapsus-siak": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Siak"
+  },
+  "scindapsus-siak-alb-best-selected": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Siak Albo - Best Selected"
+  },
+  "scindapsus-siak-albo-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Siak Albo - Best Selected"
+  },
+  "scindapsus-siak-albo-best-selected-1": {
+   "available": false,
+   "published": "2025-09-12",
+   "title": "Scindapsus Siak Albo - Best Selected"
+  },
+  "scindapsus-siak-albo-best-selected-2": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Siak Albo - Best Selected"
+  },
+  "scindapsus-siak-albo-best-selected-3": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Siak Albo - Best Selected"
+  },
+  "scindapsus-siak-albo-best-selected-4": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Siak Albo - Best Selected"
+  },
+  "scindapsus-siak-albo-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Siak Albo Choice 2 - Best Selected"
+  },
+  "scindapsus-siak-albo-choice-2-best-selected-1": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Siak Albo choice 2 - Best Selected"
+  },
+  "scindapsus-silver-army": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Silver Army"
+  },
+  "scindapsus-silver-army-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Silver Army - Best Selected"
+  },
+  "scindapsus-silver-army-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-02-14",
+   "title": "Scindapsus Silver Army Tricolor"
+  },
+  "scindapsus-silver-army-tricolor-best-selected-1": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Silver army tricolor  - Best Selected"
+  },
+  "scindapsus-silver-black": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Silver Black"
+  },
+  "scindapsus-silver-cloud": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Silver Cloud"
+  },
+  "scindapsus-silver-cloud-white-variegated": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Silver Cloud White Variegated"
+  },
+  "scindapsus-silver-dark-form": {
+   "available": true,
+   "published": "2024-12-27",
+   "title": "Scindapsus Silver Dark Form"
+  },
+  "scindapsus-silver-dark-from-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Silver Dark From Choice 1 - Best Selected"
+  },
+  "scindapsus-silver-dark-from-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Silver Dark From Choice 2 - Best Selected"
+  },
+  "scindapsus-silver-dark-from-choice-3-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Silver Dark From Choice 3 - Best Selected"
+  },
+  "scindapsus-silver-drift": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Silver Drift"
+  },
+  "scindapsus-silver-drift-1": {
+   "available": false,
+   "published": "2025-11-03",
+   "title": "Scindapsus Silver drift"
+  },
+  "scindapsus-silver-knight-aurea-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Silver Knight Aurea - Best Selected"
+  },
+  "scindapsus-silver-knight-aurea-mint-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus Silver Knight Aurea Mint - Best Selected"
+  },
+  "scindapsus-silver-knight-golden-mint": {
+   "available": true,
+   "published": "2025-01-16",
+   "title": "Scindapsus Silver Knight Golden Mint"
+  },
+  "scindapsus-silver-knight-green-mint-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Silver Knight Green Mint - Best Selected"
+  },
+  "scindapsus-silver-knight-green-on-green-variegated": {
+   "available": true,
+   "published": "2025-02-15",
+   "title": "Scindapsus Silver Knight Green On Green Variegated"
+  },
+  "scindapsus-silver-knight-green-on-green-variegated-best-selected": {
+   "available": false,
+   "published": "2025-02-15",
+   "title": "Scindapsus Silver Knight Green On Green Variegated - Best Selected"
+  },
+  "scindapsus-silver-knight-jung-jung-buih-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Silver Knight Jung Jung Buih - Best Selected"
+  },
+  "scindapsus-silver-knight-jung-jung-buih-best-selected-1": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus Silver Knight Jung Jung Buih - Best Selected"
+  },
+  "scindapsus-silver-knight-jung-jung-buih-variegata": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Silver Knight Jung Jung Buih Variegata"
+  },
+  "scindapsus-silver-knight-line-best-selected": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Silver Knight Line - Best Selected"
+  },
+  "scindapsus-silver-knight-line-form": {
+   "available": true,
+   "published": "2025-05-13",
+   "title": "Scindapsus Silver Knight Line Form"
+  },
+  "scindapsus-silver-knight-mint-aurea-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus Silver Knight Mint Aurea - Best Selected"
+  },
+  "scindapsus-silver-knight-no-id-best-selected": {
+   "available": false,
+   "published": "2025-02-13",
+   "title": "Scindapsus Silver Knight No Id - Best Selected"
+  },
+  "scindapsus-silver-knight-yellow-cream-var-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Silver Knight Yellow Cream Var - Best Selected"
+  },
+  "scindapsus-silver-platinum-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Tricolor Silver Platinum - Best Selected"
+  },
+  "scindapsus-silver-platinum-full-silver": {
+   "available": true,
+   "published": "2025-04-08",
+   "title": "Scindapsus Silver Platinum Full Silver"
+  },
+  "scindapsus-silver-platinum-tricolor-mutation-best-selected": {
+   "available": false,
+   "published": "2026-05-05",
+   "title": "Scindapsus Silver Platinum Tricolor Mutation - Best Selected"
+  },
+  "scindapsus-silver-princes-tricolor": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Silver Princes Tricolor"
+  },
+  "scindapsus-silver-princess-variegata": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Silver Princess"
+  },
+  "scindapsus-silver-satin-aurea": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Silver Satin Aurea"
+  },
+  "scindapsus-silver-splash-neon": {
+   "available": true,
+   "published": "2025-06-25",
+   "title": "Scindapsus Silver Splash Neon"
+  },
+  "scindapsus-silver-splash-neon-best-selected": {
+   "available": false,
+   "published": "2025-06-16",
+   "title": "Scindapsus Silver Splash Neon - Best Selected"
+  },
+  "scindapsus-silver-splash-neon-best-selected-copy": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Bakudapati Choice 1 - Best Selected"
+  },
+  "scindapsus-silver-splash-no-id-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-07-23",
+   "title": "Scindapsus Silver Splash No Id Tricolor - Best Selected"
+  },
+  "scindapsus-silver-spot": {
+   "available": false,
+   "published": "2025-04-08",
+   "title": "Scindapsus Silver Spot - Best Selected"
+  },
+  "scindapsus-silver-spot-copy": {
+   "available": true,
+   "published": "2025-04-03",
+   "title": "Scindapsus Silver Spot"
+  },
+  "scindapsus-silver-swan": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Silver Swan"
+  },
+  "scindapsus-silver-swan-1": {
+   "available": false,
+   "published": "2025-11-03",
+   "title": "Scindapsus Silver swan"
+  },
+  "scindapsus-silver-swann-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus silver swann - Best Selected"
+  },
+  "scindapsus-silver-tiger": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Silver Tiger"
+  },
+  "scindapsus-silver-turtle": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Silver Turtle"
+  },
+  "scindapsus-silver-turtle-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Silver Turtle - Best Selected"
+  },
+  "scindapsus-silvery-anne": {
+   "available": true,
+   "published": "2025-06-14",
+   "title": "Scindapsus Silvery Anne"
+  },
+  "scindapsus-simbara": {
+   "available": true,
+   "published": "2025-02-13",
+   "title": "Scindapsus Simbara"
+  },
+  "scindapsus-simbara-1": {
+   "available": false,
+   "published": "2025-02-13",
+   "title": "Scindapsus Simbara - Best Selected"
+  },
+  "scindapsus-simbara-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus Simbara - Best Selected"
+  },
+  "scindapsus-simbara-best-selected-1": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Simbara - Best Selected"
+  },
+  "scindapsus-simbara-best-selected-2": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Simbara - Best Selected"
+  },
+  "scindapsus-singkawang-dark-polkadot-albos": {
+   "available": true,
+   "published": "2025-03-21",
+   "title": "Scindapsus Singkawang Dark Polkadot Albos"
+  },
+  "scindapsus-snake-scale-stabillo": {
+   "available": true,
+   "published": "2024-12-27",
+   "title": "Scindapsus Snake Scale Stabillo"
+  },
+  "scindapsus-snake-scale-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Snake Scale Tricolor - Best Selected"
+  },
+  "scindapsus-snow-flake-mutation": {
+   "available": false,
+   "published": "2025-04-06",
+   "title": "Scindapsus Snow Flake Mutation 1 - Best Selected"
+  },
+  "scindapsus-snow-flake-mutation-1": {
+   "available": false,
+   "published": "2025-04-06",
+   "title": "Scindapsus Snow Flake Mutation 2 - Best Selected"
+  },
+  "scindapsus-snow-flake-mutation-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Snow Flake Mutation - Best Selected"
+  },
+  "scindapsus-snow-flake-mutation-best-selected-2": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Snow Flake Mutation - Best Selected"
+  },
+  "scindapsus-snow-flake-mutation-green-form-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Snow Flake Mutation (Green Form) - Best Selected"
+  },
+  "scindapsus-snow-flake-tricolor-mutation-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Snow Flake Tricolor Mutation - Best Selected"
+  },
+  "scindapsus-snow-fleck-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Snow Flake - Best Selected"
+  },
+  "scindapsus-snow-flek-mutation-best-selected": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Snow Flek Mutation - Best Selected"
+  },
+  "scindapsus-snow-flex-1": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Snowflake"
+  },
+  "scindapsus-snow-flex-mutation": {
+   "available": false,
+   "published": "2025-01-16",
+   "title": "Scindapsus Snow Flex Mutation"
+  },
+  "scindapsus-snow-flex-mutation-best-selected": {
+   "available": false,
+   "published": "2025-02-13",
+   "title": "Scindapsus Snow Flex Mutation - Best Selected"
+  },
+  "scindapsus-snowdust-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Snowdust - Best Selected"
+  },
+  "scindapsus-snowflake-mutation-best-selected": {
+   "available": false,
+   "published": "2025-10-03",
+   "title": "Scindapsus Snowflake Mutation - Best Selected"
+  },
+  "scindapsus-solaris-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Solaris - Best Selected"
+  },
+  "scindapsus-sp-banyumas": {
+   "available": true,
+   "published": "2025-04-08",
+   "title": "Scindapsus Sp Banyumas"
+  },
+  "scindapsus-sp-jambi": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Sp Jambi"
+  },
+  "scindapsus-sp-jigsaw-green-paturn": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Sp Jigsaw Green Paturn"
+  },
+  "scindapsus-sparkling-borneo": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Sparkling Borneo"
+  },
+  "scindapsus-sparkling-borneo-1": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Sparkling Borneo Varigata"
+  },
+  "scindapsus-sparkling-kunzo-best-selected": {
+   "available": false,
+   "published": "2025-05-13",
+   "title": "Scindapsus Sparkling Kunzo - Best Selected"
+  },
+  "scindapsus-sparkling-varigata-kunzo": {
+   "available": true,
+   "published": "2024-12-27",
+   "title": "Scindapsus Sparkling Varigata Kunzo"
+  },
+  "scindapsus-spearmint-mutation-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Spearmint mutation - Best Selected"
+  },
+  "scindapsus-spearmint-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Spearmint Tricolor - Best Selected"
+  },
+  "scindapsus-super-mint-tricolor-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus super mint tricolor - Best Selected"
+  },
+  "scindapsus-super-star-best-selected": {
+   "available": false,
+   "published": "2026-05-05",
+   "title": "Scindapsus Super Star - Best Selected"
+  },
+  "scindapsus-swarnabhumi-best-selected": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Swarnabhumi - Best Selected"
+  },
+  "scindapsus-swarnabhumi-best-selected-1": {
+   "available": false,
+   "published": "2026-09-17",
+   "title": "Scindapsus Swarnabhumi - Best Selected"
+  },
+  "scindapsus-temabag-best-selected": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Tembaga Choice 1 - Best Selected"
+  },
+  "scindapsus-tembaga-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Tembaga - Best Selected"
+  },
+  "scindapsus-tembaga-best-selected-1": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus Tembaga - Best Selected"
+  },
+  "scindapsus-tembaga-choice-2-best-selected": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Tembaga Choice 2 - Best Selected"
+  },
+  "scindapsus-tembaga-yellow-lava-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Tembaga Yellow Lava - Best Selected"
+  },
+  "scindapsus-tilung": {
+   "available": true,
+   "published": "2025-08-17",
+   "title": "Scindapsus Tilung"
+  },
+  "scindapsus-tiora-best-selected": {
+   "available": false,
+   "published": "2026-09-17",
+   "title": "Scindapsus tiora - Best Selected"
+  },
+  "scindapsus-treubi-albo-round-lemon-mint-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Treubi albo round lemon mint - Best Selected"
+  },
+  "scindapsus-treubi-aurea": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Treubii Aurea"
+  },
+  "scindapsus-treubi-black-golden": {
+   "available": false,
+   "published": "2025-04-26",
+   "title": "Scindapsus Treubi Black Golden - Best Selected"
+  },
+  "scindapsus-treubi-dark-form-aurea-var-best-selected": {
+   "available": false,
+   "published": "2026-06-29",
+   "title": "Scindapsus Treubi Dark Form Aurea Var - Best Selected"
+  },
+  "scindapsus-treubi-galaxi-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus Treubi galaxi - Best Selected"
+  },
+  "scindapsus-treubi-galaxy-medium-size": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Treubi Galaxy Medium Size"
+  },
+  "scindapsus-treubi-gog-lemon-best-selected": {
+   "available": false,
+   "published": "2026-06-22",
+   "title": "Scindapsus Treubi Gog Lemon - Best Selected"
+  },
+  "scindapsus-treubi-gog-lemon-best-selected-1": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Treubi Gog Lemon - Best Selected"
+  },
+  "scindapsus-treubi-marble-best-selected": {
+   "available": false,
+   "published": "2026-09-15",
+   "title": "Scindapsus treubi marble - Best Selected"
+  },
+  "scindapsus-treubi-marble-multicolor-best-selected": {
+   "available": false,
+   "published": "2025-12-17",
+   "title": "Scindapsus Treubi Marble Multicolor - Best Selected"
+  },
+  "scindapsus-treubi-monlight-black": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Treubi Moonlight Black"
+  },
+  "scindapsus-treubi-monlight-galaxy": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Treubi Moonlight Galaxy"
+  },
+  "scindapsus-treubi-monlight-njoy-best-selected": {
+   "available": false,
+   "published": "2026-02-03",
+   "title": "Scindapsus Treubi Monlight Njoy - Best Selected"
+  },
+  "scindapsus-treubi-monlighy-narrow-foam": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Treubi Moonlight Narrow Foam"
+  },
+  "scindapsus-treubi-multicolor-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Treubi Multicolor Choice 2 - Best Selected"
+  },
+  "scindapsus-treubi-multicolor-mint-best-selected": {
+   "available": false,
+   "published": "2025-11-08",
+   "title": "Scindapsus Treubi Multicolor Mint - Best Selected"
+  },
+  "scindapsus-treubi-platinum-silver-borneo": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus Treubi Platinum Silver Borneo"
+  },
+  "scindapsus-treubi-super-marble-white-best-selected": {
+   "available": false,
+   "published": "2026-06-29",
+   "title": "Scindapsus Treubi Super Marble White - Best Selected"
+  },
+  "scindapsus-treubi-white-mint-best-selected": {
+   "available": false,
+   "published": "2026-06-22",
+   "title": "Scindapsus Treubi white Mint - Best Selected"
+  },
+  "scindapsus-treubi-white-mint-round-best-selected": {
+   "available": false,
+   "published": "2026-06-29",
+   "title": "Scindapsus Treubi White Mint Round - Best Selected"
+  },
+  "scindapsus-treubii-moonlight-albo-round": {
+   "available": true,
+   "published": "2025-08-20",
+   "title": "Scindapsus Treubii Moonlight Albo Round"
+  },
+  "scindapsus-treubii-star": {
+   "available": true,
+   "published": "2025-06-26",
+   "title": "Scindapsus Treubii Star"
+  },
+  "scindapsus-treubii-super-white": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Treubii Super White"
+  },
+  "scindapsus-tricollor-choice-real-pics": {
+   "available": false,
+   "published": "2025-02-11",
+   "title": "Scindapsus Tricollor - Best Selected"
+  },
+  "scindapsus-tricollor-silver-platinum": {
+   "available": true,
+   "published": "2024-12-27",
+   "title": "Scindapsus Tricollor Silver Platinum"
+  },
+  "scindapsus-tricolor-1-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Tricolor 1 - Best Selected"
+  },
+  "scindapsus-tricolor-2-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Tricolor 2 - Best Selected"
+  },
+  "scindapsus-tricolor-3-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus Tricolor 3 - Best Selected"
+  },
+  "scindapsus-tricolor-black-army-best-selected": {
+   "available": false,
+   "published": "2025-06-16",
+   "title": "Scindapsus Tricolor Black Army - Best Selected"
+  },
+  "scindapsus-tricolor-cakrawala": {
+   "available": true,
+   "published": "2025-12-23",
+   "title": "Scindapsus Tricolor Cakrawala"
+  },
+  "scindapsus-tricolor-cakrawala-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Tricolor Cakrawala - Best Selected"
+  },
+  "scindapsus-tricolor-dark-form-best-selected": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Tricolor Dark Form - Best Selected"
+  },
+  "scindapsus-tricolor-dark-form-best-selected-1": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Tricolor Dark Form Choice 1 - Best Selected"
+  },
+  "scindapsus-tricolor-dark-form-best-selected-2": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus  tricolor dark form - Best Selected"
+  },
+  "scindapsus-tricolor-dark-form-choice-2-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Tricolor Dark Form Choice 2 - Best Selected"
+  },
+  "scindapsus-tricolor-dark-form-choice-2-best-selected-1": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Tricolor Dark Form choice 2 - Best Selected"
+  },
+  "scindapsus-tricolor-dark-form-choice-3-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Tricolor Dark Form Choice 3 - Best Selected"
+  },
+  "scindapsus-tricolor-dark-manalak": {
+   "available": false,
+   "published": "2025-04-06",
+   "title": "Scindapsus Tricolor Dark Manalak 1 - Best Selected"
+  },
+  "scindapsus-tricolor-dark-manalak-1": {
+   "available": false,
+   "published": "2025-04-06",
+   "title": "Scindapsus Tricolor Dark Manalak 2 - Best Selected"
+  },
+  "scindapsus-tricolor-dark-manalak-1-best-selected-copy": {
+   "available": false,
+   "published": "2025-07-10",
+   "title": "Scindapsus Tricolor Dark Manalak"
+  },
+  "scindapsus-tricolor-dark-manalak-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Tricolor Dark Manalak - Best Selected"
+  },
+  "scindapsus-tricolor-dark-manalak-best-selected-1": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus tricolor dark manalak - Best Selected"
+  },
+  "scindapsus-tricolor-silver-dark-form-best-selected": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Tricolor Silver Dark Form - Best Selected"
+  },
+  "scindapsus-tricolor-silver-platinum-best-choice": {
+   "available": false,
+   "published": "2025-02-11",
+   "title": "Scindapsus Tricolor Silver Platinum - Best Selected"
+  },
+  "scindapsus-tricolor-silver-platinum-best-selected": {
+   "available": false,
+   "published": "2025-07-08",
+   "title": "Scindapsus Tricolor Silver Platinum - Best Selected"
+  },
+  "scindapsus-tricolor-silver-platinum-mutation-best-selected": {
+   "available": false,
+   "published": "2025-04-09",
+   "title": "Scindapsus Tricolor Silver Platinum Mutation - Best Selected"
+  },
+  "scindapsus-trinity-best-selected": {
+   "available": false,
+   "published": "2026-05-12",
+   "title": "Scindapsus Trinity - Best Selected"
+  },
+  "scindapsus-trubi-albo-round-best-selected": {
+   "available": false,
+   "published": "2026-06-20",
+   "title": "Scindapsus Trubi Albo Round - Best Selected"
+  },
+  "scindapsus-trubi-gold": {
+   "available": true,
+   "published": "2024-12-26",
+   "title": "Scindapsus Trubi Gold"
+  },
+  "scindapsus-trubi-lemon": {
+   "available": true,
+   "published": "2025-10-08",
+   "title": "Scindapsus Trubi Lemon"
+  },
+  "scindapsus-trubii-albo-round-best-selected": {
+   "available": false,
+   "published": "2026-06-25",
+   "title": "Scindapsus Trubii Albo Round - Best Selected"
+  },
+  "scindapsus-unicorn": {
+   "available": true,
+   "published": "2025-06-25",
+   "title": "Scindapsus Unicorn"
+  },
+  "scindapsus-venom": {
+   "available": true,
+   "published": "2025-05-13",
+   "title": "Scindapsus Venom"
+  },
+  "scindapsus-venom-aurea-best-selected": {
+   "available": false,
+   "published": "2025-10-01",
+   "title": "Scindapsus Venom Aurea - Best Selected"
+  },
+  "scindapsus-venom-aurea-best-selected-1": {
+   "available": false,
+   "published": "2025-10-03",
+   "title": "Scindapsus Venom Aurea - Best Selected"
+  },
+  "scindapsus-white-crocodile-marble-lava-best-selected": {
+   "available": true,
+   "published": "2026-09-17",
+   "title": "Scindapsus white crocodile marble lava - Best Selected"
+  },
+  "scindapsus-white-crocodile-tricolor-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus White Crocodile Tricolor - Best Selected"
+  },
+  "scindapsus-white-crocodile-tricolor-best-selected-1": {
+   "available": false,
+   "published": "2025-09-12",
+   "title": "Scindapsus White Crocodile Tricolor - Best Selected"
+  },
+  "scindapsus-white-crocodlie-best-selected": {
+   "available": false,
+   "published": "2025-06-15",
+   "title": "Scindapsus White Crocodile - Best Selected"
+  },
+  "scindapsus-white-diamond": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus White Diamond"
+  },
+  "scindapsus-white-diamond-best-selected": {
+   "available": false,
+   "published": "2025-09-03",
+   "title": "Scindapsus White Diamond - Best Selected"
+  },
+  "scindapsus-white-diamond-best-selected-1": {
+   "available": false,
+   "published": "2026-05-14",
+   "title": "Scindapsus White Diamond - Best Selected"
+  },
+  "scindapsus-white-diamond-choice-1-best-selected": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus White Diamond Choice 1 - Best Selected"
+  },
+  "scindapsus-white-diamond-choice-2-best-selected": {
+   "available": false,
+   "published": "2025-11-09",
+   "title": "Scindapsus White Diamond Choice 2 - Best Selected"
+  },
+  "scindapsus-white-hologram-best-selected": {
+   "available": false,
+   "published": "2026-09-17",
+   "title": "Scindapsus White hologram - Best Selected"
+  },
+  "scindapsus-white-monster": {
+   "available": true,
+   "published": "2024-12-10",
+   "title": "Scindapsus white monster"
+  },
+  "scindapsus-white-monster-best-selected": {
+   "available": false,
+   "published": "2026-06-24",
+   "title": "Scindapsus White Monster - Best Selected"
+  },
+  "scindapsus-white-mosnter-best-selected": {
+   "available": false,
+   "published": "2025-05-07",
+   "title": "Scindapsus White Monster - Best Selected"
+  },
+  "scindapsus-white-spider": {
+   "available": true,
+   "published": "2024-12-27",
+   "title": "Scindapsus White Spider"
+  },
+  "scindapsus-white-spider-best-selected": {
+   "available": false,
+   "published": "2025-06-15",
+   "title": "Scindapsus White Spider - Best Selected"
+  },
+  "scindapsus-yellow-phoenix": {
+   "available": true,
+   "published": "2025-07-23",
+   "title": "Scindapsus Yellow Phoenix"
+  },
+  "scindapsus-yellow-phoenix-best-selected": {
+   "available": false,
+   "published": "2025-08-19",
+   "title": "Scindapsus Yellow Phoenix - Best Selected"
+  },
+  "scindapsus-yupa": {
+   "available": true,
+   "published": "2025-03-31",
+   "title": "Scindapsus Yupa"
+  },
+  "scindapsus-yupa-best-selected": {
+   "available": false,
+   "published": "2025-09-15",
+   "title": "Scindapsus Yupa - Best Selected"
+  },
+  "scindapsus-yupa-mature-best-selected-1": {
+   "available": false,
+   "published": "2025-06-25",
+   "title": "Scindapsus Yupa Mature - Best Selected"
+  },
+  "scindapsus-yusan": {
+   "available": true,
+   "published": "2025-04-08",
+   "title": "Scindapsus Yusan"
+  },
+  "scindapsus-zeon": {
+   "available": true,
+   "published": "2025-01-16",
+   "title": "Scindapsus Zeon"
+  },
+  "scindapsus-zeon-best-selected": {
+   "available": false,
+   "published": "2025-02-11",
+   "title": "Scindapsus Zeon - Best Selected"
+  },
+  "scindapsus-zeon-best-selected-1": {
+   "available": false,
+   "published": "2025-06-15",
+   "title": "Scindapsus Zeon- Best Selected"
+  },
+  "scindapsus-zeon-best-selected-2": {
+   "available": false,
+   "published": "2026-02-04",
+   "title": "Scindapsus Zeon - Best Selected"
+  }
+ }
+}

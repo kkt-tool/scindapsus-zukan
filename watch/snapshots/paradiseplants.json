@@ -1,0 +1,633 @@
+{
+ "count": 209,
+ "fetched_at": "2026-10-20 17:45 JST",
+ "items": {
+  "scindapsus-amber": {
+   "title": "scindapsus amber"
+  },
+  "scindapsus-angel-wings-noid": {
+   "title": "scindapsus angel wings noid"
+  },
+  "scindapsus-argyraeus-fantasy": {
+   "title": "scindapsus argyraeus fantasy"
+  },
+  "scindapsus-argyraeus-nebula-mint": {
+   "title": "scindapsus argyraeus nebula mint"
+  },
+  "scindapsus-argyraeus-white-crocodile": {
+   "title": "scindapsus argyraeus white crocodile"
+  },
+  "scindapsus-army-noid": {
+   "title": "scindapsus army noid"
+  },
+  "scindapsus-awan-perak": {
+   "title": "scindapsus awan perak"
+  },
+  "scindapsus-bakudapati": {
+   "title": "scindapsus bakudapati"
+  },
+  "scindapsus-bathala": {
+   "title": "scindapsus bathala"
+  },
+  "scindapsus-baticon": {
+   "title": "scindapsus baticon"
+  },
+  "scindapsus-black-dragon": {
+   "title": "scindapsus black dragon"
+  },
+  "scindapsus-black-dragon-1": {
+   "title": "scindapsus black dragon 1"
+  },
+  "scindapsus-black-dragon-2": {
+   "title": "scindapsus black dragon 2"
+  },
+  "scindapsus-black-dragon-3": {
+   "title": "scindapsus black dragon 3"
+  },
+  "scindapsus-black-dragon-albo": {
+   "title": "scindapsus black dragon albo"
+  },
+  "scindapsus-black-dragon-cream-mint": {
+   "title": "scindapsus black dragon cream mint"
+  },
+  "scindapsus-black-dragon-lemon": {
+   "title": "scindapsus black dragon lemon"
+  },
+  "scindapsus-black-dragon-mint": {
+   "title": "scindapsus black dragon mint"
+  },
+  "scindapsus-black-glossy-noid": {
+   "title": "scindapsus black glossy noid"
+  },
+  "scindapsus-black-panther": {
+   "title": "scindapsus black panther"
+  },
+  "scindapsus-black-satin-mutation": {
+   "title": "scindapsus black satin mutation"
+  },
+  "scindapsus-black-satin-variegated": {
+   "title": "scindapsus black satin variegated"
+  },
+  "scindapsus-blue-albo": {
+   "title": "scindapsus blue albo"
+  },
+  "scindapsus-blue-albo-salaka": {
+   "title": "scindapsus blue albo salaka"
+  },
+  "scindapsus-blue-exotica": {
+   "title": "scindapsus blue exotica"
+  },
+  "scindapsus-blue-exotica-marble": {
+   "title": "scindapsus blue exotica marble"
+  },
+  "scindapsus-blue-grey": {
+   "title": "scindapsus blue grey"
+  },
+  "scindapsus-blue-sky": {
+   "title": "scindapsus blue sky"
+  },
+  "scindapsus-blue-splash": {
+   "title": "scindapsus blue splash"
+  },
+  "scindapsus-blue-splash-marble": {
+   "title": "scindapsus blue splash marble"
+  },
+  "scindapsus-blue-splash-var": {
+   "title": "scindapsus blue splash var"
+  },
+  "scindapsus-blurik": {
+   "title": "scindapsus blurik"
+  },
+  "scindapsus-bunaken": {
+   "title": "scindapsus bunaken"
+  },
+  "scindapsus-cakrabuana": {
+   "title": "scindapsus cakrabuana"
+  },
+  "scindapsus-cakrabuana-1": {
+   "title": "scindapsus cakrabuana 1"
+  },
+  "scindapsus-cantika-albo": {
+   "title": "scindapsus cantika albo"
+  },
+  "scindapsus-dark-knight": {
+   "title": "scindapsus dark knight"
+  },
+  "scindapsus-dark-princess-tricolor-noid": {
+   "title": "scindapsus dark princess tricolor noid"
+  },
+  "scindapsus-dark-satin": {
+   "title": "scindapsus dark satin"
+  },
+  "scindapsus-dark-satin-mojita": {
+   "title": "scindapsus dark satin mojita"
+  },
+  "scindapsus-dark-splash-marble-mutation": {
+   "title": "scindapsus dark splash marble mutation"
+  },
+  "scindapsus-dark-splash-mint": {
+   "title": "scindapsus dark splash mint"
+  },
+  "scindapsus-dark-splash-sp-solomon": {
+   "title": "scindapsus dark splash sp solomon"
+  },
+  "scindapsus-dark-splash-var": {
+   "title": "scindapsus dark splash var"
+  },
+  "scindapsus-dragon-splash": {
+   "title": "scindapsus dragon splash"
+  },
+  "scindapsus-eclipse": {
+   "title": "scindapsus eclipse"
+  },
+  "scindapsus-emerald-green": {
+   "title": "scindapsus emerald green"
+  },
+  "scindapsus-excal-noid": {
+   "title": "scindapsus excal noid"
+  },
+  "scindapsus-exotica-acintya": {
+   "title": "scindapsus exotica acintya"
+  },
+  "scindapsus-exotica-albo": {
+   "title": "scindapsus exotica albo"
+  },
+  "scindapsus-exotica-albo-var": {
+   "title": "scindapsus exotica albo var"
+  },
+  "scindapsus-exotica-aurea": {
+   "title": "scindapsus exotica aurea"
+  },
+  "scindapsus-exotica-aurea-noid": {
+   "title": "scindapsus exotica aurea noid"
+  },
+  "scindapsus-exotica-aurea-sp-salaka": {
+   "title": "scindapsus exotica aurea sp salaka"
+  },
+  "scindapsus-exotica-bahorok-sp-sumatera": {
+   "title": "scindapsus exotica bahorok sp sumatera"
+  },
+  "scindapsus-exotica-macaro": {
+   "title": "scindapsus exotica macaro"
+  },
+  "scindapsus-exotica-mint": {
+   "title": "scindapsus exotica mint"
+  },
+  "scindapsus-exotica-noid": {
+   "title": "scindapsus exotica noid"
+  },
+  "scindapsus-exotica-noid-1": {
+   "title": "scindapsus exotica noid 1"
+  },
+  "scindapsus-exotica-prabu": {
+   "title": "scindapsus exotica prabu"
+  },
+  "scindapsus-exotica-siliwangi": {
+   "title": "scindapsus exotica siliwangi"
+  },
+  "scindapsus-exotica-sp-sumatra-var-scindapsus-mejile": {
+   "title": "scindapsus exotica sp sumatra var scindapsus mejile"
+  },
+  "scindapsus-exotica-tricolor": {
+   "title": "scindapsus exotica tricolor"
+  },
+  "scindapsus-exotica-tricolor-gog": {
+   "title": "scindapsus exotica tricolor gog"
+  },
+  "scindapsus-exotica-tricolor-noid": {
+   "title": "scindapsus exotica tricolor noid"
+  },
+  "scindapsus-exotica-tricolor-trinity": {
+   "title": "scindapsus exotica tricolor trinity"
+  },
+  "scindapsus-exotica-var-albo-tarumanagara": {
+   "title": "scindapsus exotica var albo tarumanagara"
+  },
+  "scindapsus-exotica-var-aurea-swarnabhumi": {
+   "title": "scindapsus exotica var aurea swarnabhumi"
+  },
+  "scindapsus-exotica-white-crystal": {
+   "title": "scindapsus exotica white crystal"
+  },
+  "scindapsus-exotica-white-crystal-1": {
+   "title": "scindapsus exotica white crystal 1"
+  },
+  "scindapsus-exotica-yellow-noid": {
+   "title": "scindapsus exotica yellow noid"
+  },
+  "scindapsus-fatamorgana": {
+   "title": "scindapsus fatamorgana"
+  },
+  "scindapsus-foresta": {
+   "title": "scindapsus foresta"
+  },
+  "scindapsus-freyja-gog": {
+   "title": "scindapsus freyja gog"
+  },
+  "scindapsus-gamora-gog": {
+   "title": "scindapsus gamora gog"
+  },
+  "scindapsus-garawa": {
+   "title": "scindapsus garawa"
+  },
+  "scindapsus-garawa-1": {
+   "title": "scindapsus garawa 1"
+  },
+  "scindapsus-geulis": {
+   "title": "scindapsus geulis"
+  },
+  "scindapsus-geulis-1": {
+   "title": "scindapsus geulis 1"
+  },
+  "scindapsus-golden-mint-sp-kapaus": {
+   "title": "scindapsus golden mint sp kapaus"
+  },
+  "scindapsus-golden-splash": {
+   "title": "scindapsus golden splash"
+  },
+  "scindapsus-green-anaconda": {
+   "title": "scindapsus green anaconda"
+  },
+  "scindapsus-green-diamond": {
+   "title": "scindapsus green diamond"
+  },
+  "scindapsus-green-phoenix": {
+   "title": "scindapsus green phoenix"
+  },
+  "scindapsus-gunung-salak": {
+   "title": "scindapsus gunung salak"
+  },
+  "scindapsus-halimoon": {
+   "title": "scindapsus halimoon"
+  },
+  "scindapsus-halimoon-tricolor": {
+   "title": "scindapsus halimoon tricolor"
+  },
+  "scindapsus-hederaceus-blue-aurea": {
+   "title": "scindapsus hederaceus blue aurea"
+  },
+  "scindapsus-hologram": {
+   "title": "scindapsus hologram"
+  },
+  "scindapsus-jade-satin": {
+   "title": "scindapsus jade satin"
+  },
+  "scindapsus-jade-satin-1": {
+   "title": "scindapsus jade satin 1"
+  },
+  "scindapsus-jade-satin-aurea": {
+   "title": "scindapsus jade satin aurea"
+  },
+  "scindapsus-jade-satin-marble": {
+   "title": "scindapsus jade satin marble"
+  },
+  "scindapsus-jade-satin-mutation": {
+   "title": "scindapsus jade satin mutation"
+  },
+  "scindapsus-jade-satin-var": {
+   "title": "scindapsus jade satin var"
+  },
+  "scindapsus-jaguar": {
+   "title": "scindapsus jaguar"
+  },
+  "scindapsus-junjung-buih": {
+   "title": "scindapsus junjung buih"
+  },
+  "scindapsus-kalimantaru": {
+   "title": "scindapsus kalimantaru"
+  },
+  "scindapsus-kencana-albo-var": {
+   "title": "scindapsus kencana albo var"
+  },
+  "scindapsus-kiara": {
+   "title": "scindapsus kiara"
+  },
+  "scindapsus-king-marble": {
+   "title": "scindapsus king marble"
+  },
+  "scindapsus-kusuma": {
+   "title": "scindapsus kusuma"
+  },
+  "scindapsus-legacy": {
+   "title": "scindapsus legacy"
+  },
+  "scindapsus-leopard": {
+   "title": "scindapsus leopard"
+  },
+  "scindapsus-leopard-aurea": {
+   "title": "scindapsus leopard aurea"
+  },
+  "scindapsus-longipitatus-var": {
+   "title": "scindapsus longipitatus var"
+  },
+  "scindapsus-luna": {
+   "title": "scindapsus luna"
+  },
+  "scindapsus-mahabarata-1": {
+   "title": "scindapsus mahabarata 1"
+  },
+  "scindapsus-majika": {
+   "title": "scindapsus majika"
+  },
+  "scindapsus-mandala": {
+   "title": "scindapsus mandala"
+  },
+  "scindapsus-marble-noid": {
+   "title": "scindapsus marble noid"
+  },
+  "scindapsus-mariposa": {
+   "title": "scindapsus mariposa"
+  },
+  "scindapsus-martapura": {
+   "title": "scindapsus martapura"
+  },
+  "scindapsus-martapura-1": {
+   "title": "scindapsus martapura 1"
+  },
+  "scindapsus-medallion": {
+   "title": "scindapsus medallion"
+  },
+  "scindapsus-medallion-1": {
+   "title": "scindapsus medallion 1"
+  },
+  "scindapsus-medusa": {
+   "title": "scindapsus medusa"
+  },
+  "scindapsus-medusa-tricolor": {
+   "title": "scindapsus medusa tricolor"
+  },
+  "scindapsus-morning-star": {
+   "title": "scindapsus morning star"
+  },
+  "scindapsus-morning-star-1": {
+   "title": "scindapsus morning star 1"
+  },
+  "scindapsus-mount-salak": {
+   "title": "scindapsus mount salak"
+  },
+  "scindapsus-mutation-lava-noid": {
+   "title": "scindapsus mutation lava noid"
+  },
+  "scindapsus-nangga-seni-1": {
+   "title": "scindapsus nangga seni 1"
+  },
+  "scindapsus-nebula-permata": {
+   "title": "scindapsus nebula permata"
+  },
+  "scindapsus-nebula-permata-1": {
+   "title": "scindapsus nebula permata 1"
+  },
+  "scindapsus-nebula-permata-mutation": {
+   "title": "scindapsus nebula permata mutation"
+  },
+  "scindapsus-nirmala-variegated": {
+   "title": "scindapsus nirmala variegated"
+  },
+  "scindapsus-noid": {
+   "title": "scindapsus noid"
+  },
+  "scindapsus-noid-matcha": {
+   "title": "scindapsus noid matcha"
+  },
+  "scindapsus-orbit": {
+   "title": "scindapsus orbit"
+  },
+  "scindapsus-palawan": {
+   "title": "scindapsus palawan"
+  },
+  "scindapsus-pangrango": {
+   "title": "scindapsus pangrango"
+  },
+  "scindapsus-pangrango-1": {
+   "title": "scindapsus pangrango 1"
+  },
+  "scindapsus-parahyangan-1": {
+   "title": "scindapsus parahyangan 1"
+  },
+  "scindapsus-parahyangan-2": {
+   "title": "scindapsus parahyangan 2"
+  },
+  "scindapsus-parahyangan-3": {
+   "title": "scindapsus parahyangan 3"
+  },
+  "scindapsus-paraluman": {
+   "title": "scindapsus paraluman"
+  },
+  "scindapsus-pasundan": {
+   "title": "scindapsus pasundan"
+  },
+  "scindapsus-pasundan-gog": {
+   "title": "scindapsus pasundan gog"
+  },
+  "scindapsus-perakensis-aurea": {
+   "title": "scindapsus perakensis aurea"
+  },
+  "scindapsus-perlas": {
+   "title": "scindapsus perlas"
+  },
+  "scindapsus-pictus-argy-dark-var": {
+   "title": "scindapsus pictus argy dark var"
+  },
+  "scindapsus-pictus-creme-brulee": {
+   "title": "scindapsus pictus creme brulee"
+  },
+  "scindapsus-pictus-exotica-1": {
+   "title": "scindapsus pictus exotica 1"
+  },
+  "scindapsus-pictus-halimoon": {
+   "title": "scindapsus pictus halimoon"
+  },
+  "scindapsus-pictus-junjung-buih": {
+   "title": "scindapsus pictus junjung buih"
+  },
+  "scindapsus-pictus-miranda": {
+   "title": "scindapsus pictus miranda"
+  },
+  "scindapsus-pictus-miranda-1": {
+   "title": "scindapsus pictus miranda 1"
+  },
+  "scindapsus-pictus-paraluman": {
+   "title": "scindapsus pictus paraluman"
+  },
+  "scindapsus-pictus-peasun-aurea": {
+   "title": "scindapsus pictus peasun aurea"
+  },
+  "scindapsus-pictus-pribumi": {
+   "title": "scindapsus pictus pribumi"
+  },
+  "scindapsus-pictus-silver-lady": {
+   "title": "scindapsus pictus silver lady"
+  },
+  "scindapsus-pictus-silver-princess-yupa": {
+   "title": "scindapsus pictus silver princess yupa"
+  },
+  "scindapsus-pictus-silver-splash-1": {
+   "title": "scindapsus pictus silver splash 1"
+  },
+  "scindapsus-pictus-white-crocodile": {
+   "title": "scindapsus pictus white crocodile"
+  },
+  "scindapsus-polka-dot": {
+   "title": "scindapsus polka dot"
+  },
+  "scindapsus-rajatapura": {
+   "title": "scindapsus rajatapura"
+  },
+  "scindapsus-salak-var": {
+   "title": "scindapsus salak var"
+  },
+  "scindapsus-sembada-noid": {
+   "title": "scindapsus sembada noid"
+  },
+  "scindapsus-silver-army-noid": {
+   "title": "scindapsus silver army noid"
+  },
+  "scindapsus-silver-blue-splash": {
+   "title": "scindapsus silver blue splash"
+  },
+  "scindapsus-silver-cloud-albo": {
+   "title": "scindapsus silver cloud albo"
+  },
+  "scindapsus-silver-cloud-albo-1": {
+   "title": "scindapsus silver cloud albo 1"
+  },
+  "scindapsus-silver-cloud-gog": {
+   "title": "scindapsus silver cloud gog"
+  },
+  "scindapsus-silver-cloud-gog-padjajaran": {
+   "title": "scindapsus silver cloud gog padjajaran"
+  },
+  "scindapsus-silver-cloud-leopard-aurea": {
+   "title": "scindapsus silver cloud leopard aurea"
+  },
+  "scindapsus-silver-knight-aurea": {
+   "title": "scindapsus silver knight aurea"
+  },
+  "scindapsus-silver-knight-bunaken": {
+   "title": "scindapsus silver knight bunaken"
+  },
+  "scindapsus-silver-knight-bunaken-1": {
+   "title": "scindapsus silver knight bunaken 1"
+  },
+  "scindapsus-silver-knight-galaxy": {
+   "title": "scindapsus silver knight galaxy"
+  },
+  "scindapsus-silver-knight-infinity": {
+   "title": "scindapsus silver knight infinity"
+  },
+  "scindapsus-silver-knight-infinity-1": {
+   "title": "scindapsus silver knight infinity 1"
+  },
+  "scindapsus-silver-knight-kisut": {
+   "title": "scindapsus silver knight kisut"
+  },
+  "scindapsus-silver-knight-kisut-1": {
+   "title": "scindapsus silver knight kisut 1"
+  },
+  "scindapsus-silver-knight-mint": {
+   "title": "scindapsus silver knight mint"
+  },
+  "scindapsus-silver-knight-var-marble": {
+   "title": "scindapsus silver knight var marble"
+  },
+  "scindapsus-silver-princess": {
+   "title": "scindapsus silver princess"
+  },
+  "scindapsus-silver-queen": {
+   "title": "scindapsus silver queen"
+  },
+  "scindapsus-silver-satin": {
+   "title": "scindapsus silver satin"
+  },
+  "scindapsus-silver-shield": {
+   "title": "scindapsus silver shield"
+  },
+  "scindapsus-silver-splash-noid": {
+   "title": "scindapsus silver splash noid"
+  },
+  "scindapsus-silver-splash-salaka-nagara": {
+   "title": "scindapsus silver splash salaka nagara"
+  },
+  "scindapsus-silver-splash-tricolor": {
+   "title": "scindapsus silver splash tricolor"
+  },
+  "scindapsus-sisilim": {
+   "title": "scindapsus sisilim"
+  },
+  "scindapsus-snowfleck-mutation": {
+   "title": "scindapsus snowfleck mutation"
+  },
+  "scindapsus-snowfleck-noid": {
+   "title": "scindapsus snowfleck noid"
+  },
+  "scindapsus-sp-borneo-noid": {
+   "title": "scindapsus sp borneo noid"
+  },
+  "scindapsus-sp-curlew": {
+   "title": "scindapsus sp curlew"
+  },
+  "scindapsus-sp-hologram": {
+   "title": "scindapsus sp hologram"
+  },
+  "scindapsus-sp-jambi": {
+   "title": "scindapsus sp jambi"
+  },
+  "scindapsus-sp-kalimantan-1": {
+   "title": "scindapsus sp kalimantan 1"
+  },
+  "scindapsus-sp-sumatra-noid": {
+   "title": "scindapsus sp sumatra noid"
+  },
+  "scindapsus-sp-white-monster-variegata": {
+   "title": "scindapsus sp white monster variegata"
+  },
+  "scindapsus-sparkling-kunzo": {
+   "title": "scindapsus sparkling kunzo"
+  },
+  "scindapsus-sundawa": {
+   "title": "scindapsus sundawa"
+  },
+  "scindapsus-tembaga": {
+   "title": "scindapsus tembaga"
+  },
+  "scindapsus-tembaga-1": {
+   "title": "scindapsus tembaga 1"
+  },
+  "scindapsus-tilung-supermoon": {
+   "title": "scindapsus tilung supermoon"
+  },
+  "scindapsus-treubii-dark-form-var": {
+   "title": "scindapsus treubii dark form var"
+  },
+  "scindapsus-treubii-mint": {
+   "title": "scindapsus treubii mint"
+  },
+  "scindapsus-treubii-moonlight": {
+   "title": "scindapsus treubii moonlight"
+  },
+  "scindapsus-treubii-moonlight-marble-1": {
+   "title": "scindapsus treubii moonlight marble 1"
+  },
+  "scindapsus-white-crystal": {
+   "title": "scindapsus white crystal"
+  },
+  "scindapsus-white-diamond": {
+   "title": "scindapsus white diamond"
+  },
+  "scindapsus-white-diamond-1": {
+   "title": "scindapsus white diamond 1"
+  },
+  "scindapsus-white-marble": {
+   "title": "scindapsus white marble"
+  },
+  "scindapsus-white-spider": {
+   "title": "scindapsus white spider"
+  },
+  "scindapsus-yellow-lava": {
+   "title": "scindapsus yellow lava"
+  },
+  "scindapsus-yellow-moon-noid": {
+   "title": "scindapsus yellow moon noid"
+  }
+ }
+}
