@@ -1,7 +1,10 @@
 {
- "count": 132,
- "fetched_at": "2026-10-24 07:49 JST",
+ "count": 135,
+ "fetched_at": "2026-10-31 07:48 JST",
  "items": {
+  "scindapsus-acyntia-tricolor": {
+   "title": "Scindapsus Acyntia Tricolor"
+  },
   "scindapsus-andalas-variegated": {
    "title": "Scindapsus Andalas Variegated"
   },
@@ -188,6 +191,9 @@
   "scindapsus-longistipitatus-variegata": {
    "title": "Scindapsus Longistipitatus Variegated"
   },
+  "scindapsus-lucens-green-variegated": {
+   "title": "Scindapsus Lucens Green Variegated"
+  },
   "scindapsus-lucens-silver": {
    "title": "Scindapsus Lucens Silver"
   },
@@ -289,6 +295,9 @@
   },
   "scindapsus-silver-knight-infinity": {
    "title": "Scindapsus Silver Knight Infinity"
+  },
+  "scindapsus-silver-knight-mint": {
+   "title": "Scindapsus Silver Knight Mint"
   },
   "scindapsus-silver-knight-neon": {
    "title": "Scindapsus Silver Knight Neon"

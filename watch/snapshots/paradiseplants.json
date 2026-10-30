@@ -1,12 +1,15 @@
 {
- "count": 209,
- "fetched_at": "2026-10-24 07:49 JST",
+ "count": 233,
+ "fetched_at": "2026-10-31 07:48 JST",
  "items": {
   "scindapsus-amber": {
    "title": "scindapsus amber"
   },
   "scindapsus-angel-wings-noid": {
    "title": "scindapsus angel wings noid"
+  },
+  "scindapsus-argyraeus-albo": {
+   "title": "scindapsus argyraeus albo"
   },
   "scindapsus-argyraeus-fantasy": {
    "title": "scindapsus argyraeus fantasy"
@@ -25,6 +28,9 @@
   },
   "scindapsus-bakudapati": {
    "title": "scindapsus bakudapati"
+  },
+  "scindapsus-bakunawa-tong-hong": {
+   "title": "scindapsus bakunawa tong hong"
   },
   "scindapsus-bathala": {
    "title": "scindapsus bathala"
@@ -47,9 +53,6 @@
   "scindapsus-black-dragon-albo": {
    "title": "scindapsus black dragon albo"
   },
-  "scindapsus-black-dragon-cream-mint": {
-   "title": "scindapsus black dragon cream mint"
-  },
   "scindapsus-black-dragon-lemon": {
    "title": "scindapsus black dragon lemon"
   },
@@ -67,6 +70,12 @@
   },
   "scindapsus-black-satin-variegated": {
    "title": "scindapsus black satin variegated"
+  },
+  "scindapsus-black-wizard": {
+   "title": "scindapsus black wizard"
+  },
+  "scindapsus-blantara": {
+   "title": "scindapsus blantara"
   },
   "scindapsus-blue-albo": {
    "title": "scindapsus blue albo"
@@ -92,6 +101,9 @@
   "scindapsus-blue-splash-marble": {
    "title": "scindapsus blue splash marble"
   },
+  "scindapsus-blue-splash-polkadot": {
+   "title": "scindapsus blue splash polkadot"
+  },
   "scindapsus-blue-splash-var": {
    "title": "scindapsus blue splash var"
   },
@@ -109,6 +121,21 @@
   },
   "scindapsus-cantika-albo": {
    "title": "scindapsus cantika albo"
+  },
+  "scindapsus-dara": {
+   "title": "scindapsus dara"
+  },
+  "scindapsus-dara-aurea": {
+   "title": "scindapsus dara aurea"
+  },
+  "scindapsus-dara-aurea-1": {
+   "title": "scindapsus dara aurea 1"
+  },
+  "scindapsus-dark-cloud-marble": {
+   "title": "scindapsus dark cloud marble"
+  },
+  "scindapsus-dark-cloud-marble-aurea": {
+   "title": "scindapsus dark cloud marble aurea"
   },
   "scindapsus-dark-knight": {
    "title": "scindapsus dark knight"
@@ -290,6 +317,9 @@
   "scindapsus-jaguar": {
    "title": "scindapsus jaguar"
   },
+  "scindapsus-jigsaw": {
+   "title": "scindapsus jigsaw"
+  },
   "scindapsus-junjung-buih": {
    "title": "scindapsus junjung buih"
   },
@@ -428,6 +458,9 @@
   "scindapsus-pictus-argy-dark-var": {
    "title": "scindapsus pictus argy dark var"
   },
+  "scindapsus-pictus-argyraeus-satin": {
+   "title": "scindapsus pictus argyraeus satin"
+  },
   "scindapsus-pictus-creme-brulee": {
    "title": "scindapsus pictus creme brulee"
   },
@@ -470,11 +503,20 @@
   "scindapsus-polka-dot": {
    "title": "scindapsus polka dot"
   },
+  "scindapsus-python": {
+   "title": "scindapsus python"
+  },
   "scindapsus-rajatapura": {
    "title": "scindapsus rajatapura"
   },
+  "scindapsus-sadewa": {
+   "title": "scindapsus sadewa"
+  },
   "scindapsus-salak-var": {
    "title": "scindapsus salak var"
+  },
+  "scindapsus-sembada": {
+   "title": "scindapsus sembada"
   },
   "scindapsus-sembada-noid": {
    "title": "scindapsus sembada noid"
@@ -530,6 +572,9 @@
   "scindapsus-silver-knight-var-marble": {
    "title": "scindapsus silver knight var marble"
   },
+  "scindapsus-silver-platinum-tricolor": {
+   "title": "scindapsus silver platinum tricolor"
+  },
   "scindapsus-silver-princess": {
    "title": "scindapsus silver princess"
   },
@@ -550,6 +595,9 @@
   },
   "scindapsus-silver-splash-tricolor": {
    "title": "scindapsus silver splash tricolor"
+  },
+  "scindapsus-silver-tiger": {
+   "title": "scindapsus silver tiger"
   },
   "scindapsus-sisilim": {
    "title": "scindapsus sisilim"
@@ -572,6 +620,9 @@
   "scindapsus-sp-jambi": {
    "title": "scindapsus sp jambi"
   },
+  "scindapsus-sp-kalimantan": {
+   "title": "scindapsus sp kalimantan"
+  },
   "scindapsus-sp-kalimantan-1": {
    "title": "scindapsus sp kalimantan 1"
   },
@@ -583,6 +634,9 @@
   },
   "scindapsus-sparkling-kunzo": {
    "title": "scindapsus sparkling kunzo"
+  },
+  "scindapsus-sundaland": {
+   "title": "scindapsus sundaland"
   },
   "scindapsus-sundawa": {
    "title": "scindapsus sundawa"
@@ -596,6 +650,9 @@
   "scindapsus-tilung-supermoon": {
    "title": "scindapsus tilung supermoon"
   },
+  "scindapsus-treubii-albo-round": {
+   "title": "scindapsus treubii albo round"
+  },
   "scindapsus-treubii-dark-form-var": {
    "title": "scindapsus treubii dark form var"
   },
@@ -608,6 +665,9 @@
   "scindapsus-treubii-moonlight-marble-1": {
    "title": "scindapsus treubii moonlight marble 1"
   },
+  "scindapsus-unknown": {
+   "title": "scindapsus unknown"
+  },
   "scindapsus-white-crystal": {
    "title": "scindapsus white crystal"
   },
@@ -616,6 +676,15 @@
   },
   "scindapsus-white-diamond-1": {
    "title": "scindapsus white diamond 1"
+  },
+  "scindapsus-white-diamond-2": {
+   "title": "scindapsus white diamond 2"
+  },
+  "scindapsus-white-diamond-dark-form": {
+   "title": "scindapsus white diamond dark form"
+  },
+  "scindapsus-white-diamond-marble": {
+   "title": "scindapsus white diamond marble"
   },
   "scindapsus-white-marble": {
    "title": "scindapsus white marble"
@@ -628,6 +697,9 @@
   },
   "scindapsus-yellow-moon-noid": {
    "title": "scindapsus yellow moon noid"
+  },
+  "scindapsus-yellow-phoenix": {
+   "title": "scindapsus yellow phoenix"
   }
  }
 }
