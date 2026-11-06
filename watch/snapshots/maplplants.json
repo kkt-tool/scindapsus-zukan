@@ -1,6 +1,6 @@
 {
- "count": 71,
- "fetched_at": "2026-10-31 07:48 JST",
+ "count": 74,
+ "fetched_at": "2026-11-07 07:48 JST",
  "items": {
   "scindapsus-andalas": {
    "lastmod": "2026-07-22",
@@ -66,6 +66,10 @@
    "lastmod": "2026-09-01",
    "title": "scindapsus exotica marble 1"
   },
+  "scindapsus-exotica-mint": {
+   "lastmod": "2026-09-08",
+   "title": "scindapsus exotica mint"
+  },
   "scindapsus-garawa": {
    "lastmod": "2026-07-11",
    "title": "scindapsus garawa"
@@ -81,6 +85,10 @@
   "scindapsus-green-finix": {
    "lastmod": "2026-07-11",
    "title": "scindapsus green finix"
+  },
+  "scindapsus-hederaceus-aurea": {
+   "lastmod": "2026-09-15",
+   "title": "scindapsus hederaceus aurea"
   },
   "scindapsus-jjb": {
    "lastmod": "2026-07-11",
@@ -126,10 +134,6 @@
    "lastmod": "2026-07-11",
    "title": "scindapsus nebula"
   },
-  "scindapsus-nebula-1": {
-   "lastmod": "2026-07-11",
-   "title": "scindapsus nebula 1"
-  },
   "scindapsus-nirmala": {
    "lastmod": "2026-07-21",
    "title": "scindapsus nirmala"
@@ -149,10 +153,6 @@
   "scindapsus-peacock": {
    "lastmod": "2026-07-22",
    "title": "scindapsus peacock"
-  },
-  "scindapsus-peacock-1": {
-   "lastmod": "2026-07-30",
-   "title": "scindapsus peacock 1"
   },
   "scindapsus-peasun": {
    "lastmod": "2026-07-30",
@@ -241,6 +241,18 @@
   "scindapsus-treubii-galaxy": {
    "lastmod": "2026-09-01",
    "title": "scindapsus treubii galaxy"
+  },
+  "scindapsus-treubii-green-on-green": {
+   "lastmod": "2026-09-08",
+   "title": "scindapsus treubii green on green"
+  },
+  "scindapsus-treubii-lime": {
+   "lastmod": "2026-09-08",
+   "title": "scindapsus treubii lime"
+  },
+  "scindapsus-treubii-mint": {
+   "lastmod": "2026-09-08",
+   "title": "scindapsus treubii mint"
   },
   "scindapsus-treubii-moonlight": {
    "lastmod": "2026-07-15",

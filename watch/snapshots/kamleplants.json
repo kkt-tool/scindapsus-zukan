@@ -1,6 +1,6 @@
 {
- "count": 135,
- "fetched_at": "2026-10-31 07:48 JST",
+ "count": 137,
+ "fetched_at": "2026-11-07 07:48 JST",
  "items": {
   "scindapsus-acyntia-tricolor": {
    "title": "Scindapsus Acyntia Tricolor"
@@ -84,13 +84,13 @@
    "title": "Scindapsus Exotica Hologram"
   },
   "scindapsus-exotica-kapuas-green-on-green": {
-   "title": "Scindapsus Exotica Kapuas Green On Green"
+   "title": "Scindapsus Kapuas Variegated Green On Green"
   },
   "scindapsus-exotica-kapuas-green-on-green-2": {
-   "title": "Scindapsus Exotica Kapuas Green On Green"
+   "title": "Scindapsus Kapuas Variegated Green On Green"
   },
   "scindapsus-exotica-kapuas-green-on-green-3": {
-   "title": "Scindapsus Exotica Kapuas Green On Green"
+   "title": "Scindapsus Kapuas Green Princess"
   },
   "scindapsus-exotica-kencana": {
    "title": "Scindapsus Exotica Kencana"
@@ -209,11 +209,14 @@
   "scindapsus-marahuyo": {
    "title": "Scindapsus Marahuyo"
   },
+  "scindapsus-marakai-albo": {
+   "title": "Scindapsus Marakai Albo"
+  },
   "scindapsus-marakai-aurea": {
    "title": "Scindapsus Marakai Aurea"
   },
   "scindapsus-mariposa": {
-   "title": "Scindapsus Mariposa Variegated Halfmoon"
+   "title": "Scindapsus Mariposa Variegated"
   },
   "scindapsus-medusa": {
    "title": "Scindapsus Medusa"
@@ -257,6 +260,9 @@
   "scindapsus-perakensis-silver": {
    "title": "Scindapsus Perakensis Silver"
   },
+  "scindapsus-pribhumi": {
+   "title": "Scindapsus Pribhumi"
+  },
   "scindapsus-rubicon-white": {
    "title": "Scindapsus Rubicon White"
   },
@@ -273,7 +279,7 @@
    "title": "Scindapsus Salakanagara"
   },
   "scindapsus-salamount": {
-   "title": "Scindapsus Salamount"
+   "title": "Scindapsus Salaca Mount"
   },
   "scindapsus-sayghyang": {
    "title": "Scindapsus Sayghyang"
@@ -327,7 +333,7 @@
    "title": "Scindapsus Exotica Simbara"
   },
   "scindapsus-singkawang-aurea-polkadot": {
-   "title": "Scindapsus Singkawang Aurea Polkadot"
+   "title": "Scindapsus Argyraeus Golden Rain"
   },
   "scindapsus-snack-scale": {
    "title": "Scindapsus Snack Scale"
@@ -387,7 +393,7 @@
    "title": "Scindapsus Tricolor"
   },
   "scindapsus-tricolor-silver-dark-variegated": {
-   "title": "Scindapsus Tricolor Silver Dark Variegated"
+   "title": "Scindapsus Dara Variegated"
   },
   "scindapsus-tricolor-silver-platinum-best-choice": {
    "title": "Scindapsus Tricolor Silver Platinum (Best Choice)"
